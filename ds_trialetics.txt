@@ -6,14 +6,33 @@ Internal>Interface>External {Time Flow}
 Topological Dialetics := (External Form,Internal Content)
 Topological Trialetics := (External,Interface,Internal)
 Information Trialetics := (Perception{Interface}>Processing{Internal}>Response{Interface})
-Horizontal Conscience < (Emotion,Intellect,Will) * Information Trialetics
+Horizontal Consciousness < (Emotion,Intellect,Will) * Information Trialetics
 Topological(Dialetics,Trialetics) < Information Trialetics * {Time Flow}
 Determinism X Chaos 
 External>Interface>Internal{Inner Determinism}>Interface>External {Determinism}
 Internal{Inner Chaos}>Interface>External
-Self Trialetics ~ ((Self)Imagination)Reality
-Vertical Conscience < ((Desire)Choice)Act * Self Trialetics 
+Self Trialetics := ((Self)Imagination)Reality
+Vertical Consciousness < ((Desire)Choice)Act * Self Trialetics 
 Information Trialetics X Self Trialetics ~ Horizontal X Vertical 
 Chaos)Feelings)Desires))Imagination)Predictions)Choices))Response)Control)Action
+.
+> Prompt for LLM Analysis:
+? Can you transform this in an human readable text 
+? Can you compare and contextualize through academical philosophycal thinkers 
+?? &? Thinkers || Contextualize | Compare
+> Explanation of Notation 
+1. ? // Question Structure
+2. A | B // means A after B on same scope 
+3. A || B // means B inside the scope of A
+4. &? // means a random choice 
+5. & // means an iteration 
+6. > // flow 
+7. Concept < Projection * Basis // concept projection
+8. {} // context 
+9. A X B // contrast
+10. (A,B,...) // concept structure
+11. A)B)C ... // flow from inside to outside
+12. ((A)B)C ... // flow from inside to outside
+13. A)B))C ... // )) means a stronger division ) means an internal division
 
 /// END
