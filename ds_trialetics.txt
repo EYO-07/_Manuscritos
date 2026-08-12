@@ -1,0 +1,18 @@
+/// BEGIN ds_trialetics.txt
+
+External X Internal
+External>Interface>Internal {Time Flow}
+Internal>Interface>External {Time Flow}
+Topological Dialetics := (External Form,Internal Content)
+Topological Trialetics := (External,Interface,Internal)
+Horizontal Information Trialetics := (Perception{Interface}>Processing{Internal}>Response{Interface})
+Determinism X Chaos 
+External>Interface>Internal{Inner Determinism}>Interface>External {Determinism}
+Internal{Inner Chaos}>Interface>External
+
+
+Topological (Dialetics,Trialetics) < Horizontal Trialetics * Time Flow
+Determinism X Chaos 
+Vertical Trialetics ~ ((self)imagination)reality
+
+/// END
