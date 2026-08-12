@@ -5,14 +5,18 @@ External>Interface>Internal {Time Flow}
 Internal>Interface>External {Time Flow}
 Topological Dialetics := (External Form,Internal Content)
 Topological Trialetics := (External,Interface,Internal)
-Horizontal Information Trialetics := (Perception{Interface}>Processing{Internal}>Response{Interface})
+Information Trialetics := (Perception{Interface}>Processing{Internal}>Response{Interface})
+Horizontal Conscience < (Emotion,Intellect,Will) * Information Trialetics
+Topological(Dialetics,Trialetics) < Information Trialetics * {Time Flow}
 Determinism X Chaos 
 External>Interface>Internal{Inner Determinism}>Interface>External {Determinism}
 Internal{Inner Chaos}>Interface>External
+Self Trialetics ~ ((Self)Imagination)Reality
+Vertical Conscience < ((Desire)Choice)Act * Self Trialetics 
+Information Trialetics X Self Trialetics ~ Horizontal X Vertical 
 
 
-Topological (Dialetics,Trialetics) < Horizontal Trialetics * Time Flow
-Determinism X Chaos 
-Vertical Trialetics ~ ((self)imagination)reality
+
+
 
 /// END
