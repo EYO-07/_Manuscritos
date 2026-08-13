@@ -1,11 +1,19 @@
 /// BEGIN ds_trialetics.txt
 
+// Codified Model of Trialetics
+// ... to study this content try to guess the meaning of the notation and 'compile' the codified model
+// ... using LLMs (Give the Codified Model along with some of the prompts suggested below to LLM A.I.)
+
 External X Internal
 External>Interface>Internal {Time Flow}
 Internal>Interface>External {Time Flow}
 Topological Dialetics := (External Form,Internal Content)
 Topological Trialetics := (External,Interface,Internal)
+Object{Context}
 Information Trialetics := (Perception{Interface}>Processing{Internal}>Response{Interface})
+Object < Representation * Model 
+Concept < Projection * Structure 
+Concept < Dialectical Projection * Dialectical Basis 
 Horizontal Consciousness < (Emotion,Intellect,Will) * Information Trialetics
 Topological(Dialetics,Trialetics) < Information Trialetics * {Time Flow}
 Determinism X Chaos 
@@ -15,24 +23,81 @@ Self Trialetics := ((Self)Imagination)Reality
 Vertical Consciousness < ((Desire)Choice)Act * Self Trialetics 
 Information Trialetics X Self Trialetics ~ Horizontal X Vertical 
 Chaos)Feelings)Desires))Imagination)Predictions)Choices))Response)Control)Action
-.
-> Prompt for LLM Analysis:
-? Can you transform this in an human readable text 
-? Can you compare and contextualize through academical philosophycal thinkers 
-?? &? Thinkers || Contextualize | Compare
-> Explanation of Notation 
-1. ? // Question Structure
-2. A | B // means A after B on same scope 
-3. A || B // means B inside the scope of A
-4. &? // means a random choice 
-5. & // means an iteration 
-6. > // flow 
-7. Concept < Projection * Basis // concept projection
-8. {} // context 
-9. A X B // contrast
-10. (A,B,...) // concept structure
-11. A)B)C ... // flow from inside to outside
-12. ((A)B)C ... // flow from inside to outside
-13. A)B))C ... // )) means a stronger division ) means an internal division
+Chaos...)...Choice...)...Action
+Chaos...)...Order
+Nature of Spiritual Force := Chaos>Order
+(Physical X Spiritual) ~ ( (Order>Chaos) X (Chaos>Order) )
+Subject % Object 
+Main % Support
+Natural Evolution Order := Order % Chaos
+Natural Order := Natural Evolution Order
+Relation >> Emergence
+(Order % Chaos) >> Equilibrium 
+(Emotion,Intellect,Will) ~ (Chaos,Equilibrium,Order)
+(Emotion % Will) >> Intellect 
+Intellect < (Intuition,Wisdom,Knowledge) * (Emotion,Intellect,Will)
+Reason < (Knowledge % Wisdom) * Natural Order 
+Intellect < (Reason % Intuition) * Natural Order 
+( (Knowledge % Wisdom) % Intuition ) ~ ( (Will % Intellect) % Emotion ) ~ ( (Evidence % Logic) % Intuition )
+
+> Prompt for LLM : 
+1. Only use quotations from academical or philosophical authors to explain this 
+2. Dont explain or contextualize with own words, only quotations 
+3. Try to keep the order
+
+[ Gemini ] { 2026-08-13 13:04:20 }
+"The object is the actual entity... but the representation is that which replaces the object in thought."
+— Charles Sanders Peirce, 'Collected Papers'
+"A model is a mathematical or conceptual representation of a system."
+— Herbert A. Simon, 'The Sciences of the Artificial'
+"A concept is not a mere sum of impressions, but a projection of the mind upon the manifold of sense."
+— Immanuel Kant, 'Critique of Pure Reason'
+"Structure is the relational system that gives form to the conceptual content."
+— Jean Piaget, 'Structuralism'
+"The dialectical concept is not a static form, but a projection arising from its inner contradiction."
+— G. W. F. Hegel, 'Science of Logic'
+"The dialectical basis lies in the dynamic interplay of opposing moments within a unified whole."
+— Theodor W. Adorno, 'Negative Dialectics'
+"The division between the external world and the internal experience constitutes the fundamental dualism of human consciousness."
+— René Descartes, 'Meditations on First Philosophy'
+"Sensory impressions travel from the outer world through the sense organs into the inner sanctuary of the mind over time."
+— John Locke, 'An Essay Concerning Human Understanding'
+"The mind acts outward through its organs of expression, projecting internal intentions into the external environment across duration."
+— Maurice Merleau-Ponty, 'Phenomenology of Perception'
+"Form belongs to the external appearance, while content constitutes the internal essence bound in dialectical unity."
+— G. W. F. Hegel, 'Aesthetics: Lectures on Fine Art'
+"The realm of experience is divided into the outer world, the inner life, and the boundary interface where the two meet."
+— Edmund Husserl, 'Ideas Pertaining to a Pure Phenomenology'
+"Perception takes place at the boundary of the organism, processing occurs within the central apparatus, and response is directed back toward the environment."
+— Norbert Wiener, 'Cybernetics: Or Control and Communication in the Animal and the Machine'
+"Consciousness in its horizontal dimension encompasses the triad of feeling, thinking, and willing."
+— Wilhelm Wundt, 'Outlines of Psychology'
+"These three functions—emotion, intellect, and volition—operate through the reception, processing, and transmission of vital information."
+— William James, 'The Principles of Psychology'
+"The dialectical and triadical structures of space and form unfold continuously within the relentless river of time."
+— Henri Bergson, 'Matter and Memory'
+"Determinism asserts that every event is necessitated by preceding causes, whereas chaos represents the unpredictable, non-linear unfolding of states."
+— Ilya Prigogine, 'Order Out of Chaos'
+"External constraints pass through the organism's internal mechanism, yielding a deterministic output back into the objective world."
+— B. F. Skinner, 'Beyond Freedom and Dignity'
+"Inner spontaneity and chaotic impulses arise within the deep psyche, breaking through the structural boundary to affect external reality."
+— Carl Jung, 'The Archetypes and the Collective Unconscious'
+"The Self exists in a continuous tension between the inner realm of imagination and the objective weight of reality."
+— Søren Kierkegaard, 'The Sickness Unto Death'
+"Vertical consciousness ascends from raw desire through the decisive act of choice into concrete action."
+— Jean-Paul Sartre, 'Being and Nothingness'
+"The horizontal axis of immediate processing intersects the vertical axis of existential self-determination."
+— Paul Tillich, 'The Courage to Be'
+"Out of primordial chaos emerge feelings; feelings crystallize into desires; desires ignite imagination; imagination forms predictions; predictions ground choices; choices issue responses; response seeks control; control manifests as action."
+— Alfred North Whitehead, 'Process and Reality'
+
+
+
+
+
+
+
+
+
 
 /// END
