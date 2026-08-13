@@ -38,7 +38,15 @@ Relation >> Emergence
 Intellect < (Intuition,Wisdom,Knowledge) * (Emotion,Intellect,Will)
 Reason < (Knowledge % Wisdom) * Natural Order 
 Intellect < (Reason % Intuition) * Natural Order 
-( (Knowledge % Wisdom) % Intuition ) ~ ( (Will % Intellect) % Emotion ) ~ ( (Evidence % Logic) % Intuition )
+( (Knowledge % Wisdom) % Intuition ) ~ ( (Will % Intellect) % Emotion ) ~ ( (Evidence % Logic) % Feeling )
+Instability := (Chaos % Order) 
+Static := (Order % -)
+Inversion := (Object % Subject)
+Degeneration := (Subject % -)
+Empirism/Scientificism < (Evidence%-) * Degeneration of Reason 
+Naive < (Intuition % Reason) * Inversion of Mind 
+Ignorance < ((Reality % -) % Intuition) * Degeneration of Wisdom 
+Utopy < ( Theory % Evidence ) * Inversion of Reason 
 
 > Prompt for LLM : 
 1. Only use quotations from academical or philosophical authors to explain this 
