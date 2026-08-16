@@ -1,0 +1,21 @@
+/// BEGIN
+
+Main Role % Supportive Role
+Natural Evolution := (Order % Chaos)
+Instability := (Chaos % Order)
+Reason % Intuition
+Concept < Model 
+Reason < (Evidence % Logic)
+Intuition ~ Feeling
+(Reality % Theory) % Intuition
+(Evidence % Logic) % Feeling
+Reason(Evidence % Logic) % Intuition(Feeling)
+.
+// Two points of degeneration 
+1. Reason % - // Degeneration of 3D-consciousness through denial of intuition 
+2. (Evidence % -) // Degeneration of Reason by denial of logical soundness 
+// Two points of inversion
+1. Intuition ~% Reason // Emotional Inversion, intuition take the main role over the reason
+2. (Logic ~% Evidence) // Inversion of Reason, theories and abstractions takes the main role over the reality
+
+/// END 
