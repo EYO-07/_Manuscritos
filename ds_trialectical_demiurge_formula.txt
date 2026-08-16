@@ -1,5 +1,8 @@
 /// BEGIN
 
+// Dialectical Induction : A codified text using semiformal models from dialetical projections to display a natural inductive reasoning (stepwise constructively inductive reasoning), from basic dialectical fórmulas to complex ones.
+// Artificial Induction : The process of decodification of a dialectical induction reasoning using LLMs.
+
 Main Role % Supportive Role
 Natural Evolution := (Order % Chaos)
 Instability := (Chaos % Order)
@@ -20,15 +23,8 @@ Inversion of Emotion := (Intuition ~% Reason)
 Inversion of Reason := (Logic ~% Evidence)
 .
 { LLM Prompts }
-> Can you explain this ?
+> Can you explain this ? 
 > Can you exemplify those 4 points of failure ? 
-
-// Two points of degeneration 
-1. Reason % - // Degeneration of 3D-consciousness through denial of intuition 
-2. (Evidence % -) // Degeneration of Reason by denial of logical soundness 
-// Two points of inversion
-1. Intuition ~% Reason // Emotional Inversion, intuition take the main role over the reason
-2. (Logic ~% Evidence) // Inversion of Reason, theories and abstractions takes the main role over the reality
 
 [ Gemini : 2026-08-16 14:27 ] {
 This system is a **symbolic dialectic framework** that maps human cognition, philosophy, and reality into dualities (Main Role % Supportive Role). It balances structured intellect against unstructured perception, warning against what happens when either side is isolated.
@@ -490,6 +486,5 @@ Logic detaches from evidence and starts posing as if it were evidence-grounded.
 
 The pattern across all four: **1 & 2 are failures of omission** (a term goes missing), **3 & 4 are failures of usurpation** (a term steals the others seat and wears its mask).
 }
-
 
 /// END 

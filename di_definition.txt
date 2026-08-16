@@ -1,0 +1,6 @@
+/// BEGIN
+
+// Dialectical Induction : A codified text using semiformal models from dialetical projections to display a natural inductive reasoning (stepwise constructively inductive reasoning), from basic dialectical fórmulas to complex ones.
+// Artificial Induction : The process of decodification of a dialectical induction reasoning using LLMs.
+
+/// END

@@ -1,11 +1,14 @@
 /// BEGIN ds_trialetics.txt
 
+// Dialectical Induction : A codified text using semiformal models from dialetical projections to display a natural inductive reasoning (stepwise constructively inductive reasoning), from basic dialectical fórmulas to complex ones.
+// Artificial Induction : The process of decodification of a dialectical induction reasoning using LLMs.
+
 // Codified Model of Trialetics
 // ... use a c/c++ code editor to make easier to visualize
 // ... to study this content try to guess the meaning of the notation and 'compile' the codified model
 // ... using LLMs (Give the Codified Model along with some of the prompts suggested below to LLM A.I.)
 
-// this former part generates better response
+// this former part generates better responses
 External X Internal
 External>Interface>Internal {Time Flow}
 Internal>Interface>External {Time Flow}
@@ -24,18 +27,21 @@ Internal{Inner Chaos}>Interface>External
 Self Trialetics := ((Self)Imagination)Reality
 Vertical Consciousness < ((Desire)Choice)Act * Self Trialetics 
 Information Trialetics X Self Trialetics ~ Horizontal X Vertical 
-Chaos)Feelings)Desires))Imagination)Predictions)Choices))Response)Control)Action
+Chaos)Feelings)Desires))Imagination)Predictions)Choices))Responses)Control)Action
+Subject % Object
+Main % Support
+Relation >> Emergence
+(Control % Responses) >> Actions 
+( Control % (Predictions % Imaginations) ) >> Choices
+( (Predictions % Imaginations) % Feelings ) >> Desires 
 .
 // this later part generates too much refusal and perplexion
 Chaos...)...Choice...)...Action
 Chaos...)...Order
 Nature of Spiritual Force := Chaos>Order
 (Physical X Spiritual) ~ ( (Order>Chaos) X (Chaos>Order) )
-Subject % Object 
-Main % Support
 Natural Evolution Order := Order % Chaos
 Natural Order := Natural Evolution Order
-Relation >> Emergence
 (Order % Chaos) >> Equilibrium 
 (Emotion,Intellect,Will) ~ (Chaos,Equilibrium,Order)
 (Emotion % Will) >> Intellect 
@@ -633,6 +639,39 @@ Ask Brave : Former Part {
  * -- Conscious Agent Networks preprint
  */
 }
+
+.
+Chaos)Feelings)Desires))Imagination)Predictions)Choices))Response)Control)Action
+(Control % Responses) >> Actions 
+( Control % (Predictions % Imaginations) ) >> Choices
+( (Predictions % Imaginations) % Feelings ) >> Desires 
+
+Perception(Feelings) X Imagination(Desires)
+Imagination(Predictions) X Imagination(Choices)
+Physiology(Response) X Control(Choice)
+
+(Inner Chaos,Feelings,Imagination) >> Desires 
+(Imagination,Predictions,Desires) >> Choice 
+(Response,Control,Choices) >> Action
+
+(Imagination % Feelings) >> Desires 
+
+(Imagination,Prediction,Choice) ~ (Response,Control,Action)
+
+? When a physiological response becomes a feel of control, when the control of control becomes an action 
+
+(Control % Responses) >> Actions 
+1. When a control, which is the intellectual part of volition becomes the subject to the physiological response, we have the emergence of an action. 
+Inward Induction ~ ((Predictions % Imagination) >> Choice) 
+(Feelings % Imagination) >> Desires 
+
+
+
+
+
+
+
+
 
 
 /// END
