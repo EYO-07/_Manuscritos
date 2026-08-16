@@ -14,7 +14,15 @@ Logic ~ Imagination
 (Reality % Theory) % Intuition
 (Evidence % Logic) % Feeling
 Reason(Evidence % Logic) % Intuition(Feeling)
+Degeneration of Spirit := (Reason % -)
+Degeneration of Reason := (Evidence % -)
+Inversion of Emotion := (Intuition ~% Reason)
+Inversion of Reason := (Logic ~% Evidence)
 .
+{ LLM Prompts }
+> Can you explain this ?
+> Can you exemplify those 4 points of failure ? 
+
 // Two points of degeneration 
 1. Reason % - // Degeneration of 3D-consciousness through denial of intuition 
 2. (Evidence % -) // Degeneration of Reason by denial of logical soundness 
