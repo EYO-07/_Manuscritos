@@ -3,10 +3,14 @@
 Main Role % Supportive Role
 Natural Evolution := (Order % Chaos)
 Instability := (Chaos % Order)
+Static := (Order % -)
 Reason % Intuition
 Concept < Model 
 Reason < (Evidence % Logic)
-Intuition ~ Feeling
+Intuition ~ Feeling ~ Chaos 
+(Reason % Intuition) ~ (Order % Chaos)
+Logic ~ Imagination
+(Reality % Logic) ~ (Reality % Imagination) ~ (Order % Chaos)
 (Reality % Theory) % Intuition
 (Evidence % Logic) % Feeling
 Reason(Evidence % Logic) % Intuition(Feeling)
