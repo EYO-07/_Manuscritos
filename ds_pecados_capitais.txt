@@ -1,0 +1,68 @@
+/// BEGIN 
+
+Main Role % Supportive Role
+Natural Evolution := (Order % Chaos)
+Instability := (Chaos % Order)
+Static := (Order % -)
+.
+7(+1) Capital Sins: // Estes são pecados que pessoas boas podem cometer
+1. Wrath ~ Destruction ~ Chaos 
+2. Glutonny ~ Compulsion towards survival instincts
+3. Lust ~ Compulsion towards reproductive instincts
+4. Vanity ~ (Physical Value ~% Spiritual Value)
+5. Envy ~ (Self Deserves Things ~% Other Deserves Things) ~ (Unfairness, Comparison)
+6. Pride ~ (Self ~% Others) 
+7. Sloth ~ Denial of his duties by prediction of labour 
+8. Omission ~ Knowing how to without help 
+Object { Context }
+Glutonny,Lust { (Mind % Body), + Volition }
+Sloth,Omission { (Mind % Body), - Volition }
+((Pride)Vanity)Envy ~ ((Self)Valuations)Others { Emotion ~% Intellect }
+Wrath { Emotion ~% Reason }
+(((Pride)Vanity)Envy)Wrath
+.
+Trialetical Ordering := Reason(Evidence % Logic) % Intuition(Feeling)
+(Volition % Intellect) % Emotion 
+Cycle of Ignorância := ( (Volition % Emotion) X Intellect )
+Cycle of Perversão := ( (Volition % New) X Good )
+Cycle of Utopia := ( (Theory % Feeling) X Reality )
+Perversion ~ (Glutonny,Lust)
+Reclusion ~ (Sloth,Omission)
+Ignorance ~ (((Pride)Vanity)Envy)Wrath
+.
+(Sloth,Omission) X (Glutonny,Lust) { Volition }
+(((Pride)Vanity)Envy)Wrath { Emotion X Intellect }
+.
+(Sloth,Omission) X (Glutonny,Lust) { Animal/Body }
+(Sloth,Omission) ~ (Self,Other)
+(Lust,Glutonny) ~ (Reproduction,Survival) ~ (Other,Self)
+(Lust,Sloth,Glutonny)Omission { Animal/Body, (Emotion,Intellect,Volition), Horizontal }
+Pride)Vanity)Envy)Wrath { Spiritual/Mind, Self)Mind)Action, Vertical }
+.
+Vergonha X (Pride)Vanity 
+
+? How to cure wrath 
+:: Through the correct understanding of justice and fairness. Wrath comes from distorted, selfish point of view of injustice, unfairness, which often comes through comparison. Curing the envy helps to cure wrath.
+? How to cure envy
+:: Understanding the truth about the exchange, the perception of value is different from person to person, the things someone has was the value others give to him, the values inherited from people who loves him. What you think is fair, often lacks the love and value from others. Curing the vanity helps to cure the envy by reordering the valuation of things.
+? How to cure vanity 
+:: Losing things that you value which dont have true spiritual value. So you should experience loss in order to give the correct valuation of things. Curing the pride by humiliation could cure the vanity.
+? How to cure pride 
+:: Facing the humiliation without feeling humiliated.
+
+// Oração para se Libertar do Demiurgo
+1. Que minha ignorância não seja confundida com inocência, pois estando cego pelo orgulho e pela vaidade, não sou inocente perante Deus, peço a Deus por justiça sobre os meus pecados para que eu possa levantar meu rosto novamente. 
+2. Perdõe me quando fui omisso e preguiçoso, pois pela minha covardia alguém poderia ser salvo, que toda a culpa e justiça recaia sobre mim, para que não reste dúvidas de que fui perdoado. 
+3. Perdõe minhas perversões que corromperam minha alma, pois por ignorância e vaidade desprezei os valores do espírito, e após caminhar pelo vazio e sem rumo, acusei a Deus pelos meus infortúnios. 
+4. Que meus pecados, cometidos em fúria, nunca tenham misericórdia, pois a justiça é um ato de bondade e a misericórdia a prisão da alma.
+
+// Como se libertar dos pecados do espírito 
+1. Cultive as virtudes de paciência e temperânça, pois a raiva não discrimina o injusto do inocente.
+2. Não julgue o amor e o valor que os outros dão aos outros.
+3. Não dê valor as coisas mundanas, não se apegue ao material, cultive as virtudes do espírito.
+4. Em face da humilhação, não se sinta humilhado, pois quanto maior a humildade maior o valor do espírito.
+
+Inhibitors of Sins < (Love/Empathy,Fear/Punition,Aversion) * (Emotion,Intellect,Volition)
+Desequilíbrio Mental e Físico ~ (-,Fear/Punition,-)
+
+/// END 

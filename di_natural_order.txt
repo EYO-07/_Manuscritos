@@ -1,0 +1,29 @@
+/// BEGIN
+
+:= Main % Support // Natural Order Dialectical Basis 
+:= Structure >> Emergence // Emergence of an entity or relation through a structure dynamics
+:= Object/Relation { Context } // Context Operator
+:= Object/Concept < Dialectical Projection * Dialectical Basis // Projection of a Concept/Object 
+:= {A,B,C,D} // Objects from Same Context 
+.
+(Main % Support) >> Stable Relation 
+Stability ~ Existence 
+{Stability,Instability,Existence}
+(Stability % Instability) >> Existence
+{Chaos,Order,Equilibrium}
+Natural Order of Evolution := (Order % Chaos)
+:: (Chaos ~% Order) >> Instability
+:: (Chaos X Order) >> Destruction
+:: (Order % -) >> Static 
+.. Demiurge Trialetics := (Destruction,Instability,Static) 
+(Order % Chaos) >> Equilibrium 
+:: (Chaos,Equilibrium,Order) ~ (Emotion,Intellect,Volition)
+:: Conscienciousness < (Emotion,Intellect,Volition) * (Perception,Processing,Response)
+:: (Volition % Emotion) >> Intellect { Animal >> Rational Being }
+.. Gods Trialetics := (Chaos,Equilibrium,Order)
+:: Inversion := (Support ~% Main)
+:: Degeneration := (Main % -)
+:: Conflict := (Support X Main)
+.. (Conflict,Inversion,Degeneration) ~ (Destruction,Instability,Static)
+
+/// END 

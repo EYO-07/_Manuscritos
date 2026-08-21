@@ -1,0 +1,20 @@
+/// BEGIN
+
+Compreensão ~ Consciência Intelectual 
+Objeto < Compreensão * Fisiologia dos Sentidos 
+Objeto < Formas da Imaginação * Memória 
+Objeto < Representação * Formas 
+Objeto < Definição * Linguagem 
+Objeto < Modelo * Formalização de Estrutura
+Objeto < Analogia * Objeto
+Objeto { Contexto }
+(Analogia ~ Mapa){Compreensão}
+Objeto < Projeção * Modelagem
+Objeto < Projeção Dialética * Base Dialética
+
+Conceito X Objeto 
+(Conceito,Objeto) ~ (Conteúdo,Forma)
+
+
+
+/// END

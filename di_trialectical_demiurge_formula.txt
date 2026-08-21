@@ -1,0 +1,42 @@
+/// BEGIN
+
+Main Role % Supportive Role
+Natural Evolution := (Order % Chaos)
+Instability := (Chaos % Order)
+Static := (Order % -)
+.
+Reason % Intuition
+Concept < Model 
+Reason < (Evidence % Logic)
+Intuition ~ Feeling ~ Chaos 
+(Reason % Intuition) ~ (Order % Chaos)
+Logic ~ Imagination
+(Reality % Logic) ~ (Reality % Imagination) ~ (Order % Chaos)
+(Reality % Theory) % Intuition
+(Evidence % Logic) % Feeling
+Reason(Evidence % Logic) % Intuition(Feeling)
+Degeneration of Spirit := (Reason % -)
+Degeneration of Reason := (Evidence % -)
+Inversion of Emotion := (Intuition ~% Reason)
+Inversion of Reason := (Logic ~% Evidence)
+.
+Trialetical Ordering := Reason(Evidence % Logic) % Intuition(Feeling)
+Partial Orderings of Demiurge:
+1. Cycle of Ignorance ~ ( (Evidence % Intuition) X Logic )
+(Volition + Emotion) X Intellect
+(Tradition + Faith) X Truth
+(Knowledge + Intuition) X Wisdom
+2. Cycle of Perversion ~ ( (Evidence % Logic) X Spirit )
+(Volition + New) X Good
+(Knowledge + Logic) X Spiritual
+3. Cycle of Reclusion ~ ( (Logic % Intuition) X Evidence )
+(Theory + Intuition) X Reality
+(Feeling + Fiction) X Reality
+
+{ LLM Prompts }
+> Can you explain this ? 
+> Can you exemplify those 4 points of failure ? 
+
+Desequilíbrio>Tentação>Pecado>Culpa>Redenção>Devoção
+
+/// END 

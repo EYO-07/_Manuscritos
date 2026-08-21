@@ -1,0 +1,39 @@
+/// BEGIN
+
+(Chaos,Equilibrium,Order) ~ (Emotion,Intellect,Volition)
+(Love,Seduction,Sex) ~ (Emotion,Intellect,Volition)
+.
+Main Role % Supportive Role
+Natural Evolution Order := (Order % Chaos)
+Instability := (Chaos % Order)
+Static := (Order % -)
+.
+Love % Sexuality(Seduction % Sex) 
+1. (Love % -)
+2. (Seduction % -)
+3. (Sexuality ~% Love)
+4. (Sex ~% Seduction)
+.
+Object < Representation * Model 
+Concept < Projection * Structure 
+Concept < Dialectical Projection * Dialectical Basis 
+.
+Natural Sensibility < (Beauty % Vulgarity) * (Order % Chaos)
+Parafilic Sensibility < (Vulgarity ~% Beauty) * (Chaos ~% Order)
+.
+Relation >> Emergence
+(Order % Chaos) >> Equilibrium
+(Volition % Emotion) >> Intellect 
+.
+Covering the Vulgar Parts >> Spiritual Beauty by Focus on Beautiful Parts
+Uncovering the Vulgar Parts >> Physical Beauty by Contrast with the Vulgar Parts 
+(Covering the Vulgar Parts % Uncovering the Vulgar Parts) >> Art of Seduction 
+
+Seduction ~ Intellect ~ Ambiguity, Curiosity
+
+Trialetical Ordering := Love % Sexuality(Seduction % Sex) 
+Partial Orderings of Demiurge:
+Cycle of Perversion := ( (Seduction % Sex) X Love )
+Cycle of Ignorance := ( (Love % Sex) X Seduction )
+
+/// END 
