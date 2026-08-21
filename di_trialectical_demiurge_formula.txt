@@ -1,33 +1,44 @@
 /// BEGIN
 
-Main Role % Supportive Role
-Natural Evolution := (Order % Chaos)
-Instability := (Chaos % Order)
-Static := (Order % -)
+:= Main % Support // Natural Order Dialectical Basis 
+:= Support ~% Main // Inversion of Natural Order 
+:= Object/Concept < Dialectical Projection * Dialectical Basis // Projection of a Concept/Object 
+:= A ~ B // Relation 
+:= A ~ B { C } // Relation inside context 
 .
 Reason % Intuition
-Concept < Model 
-Reason < (Evidence % Logic)
-Intuition ~ Feeling ~ Chaos 
-(Reason % Intuition) ~ (Order % Chaos)
-Logic ~ Imagination
-(Reality % Logic) ~ (Reality % Imagination) ~ (Order % Chaos)
-(Reality % Theory) % Intuition
-(Evidence % Logic) % Feeling
+:: Intuition ~ Feeling ~ Chaos 
+:: (Reason % Intuition) ~ (Order % Chaos)
+.. (Reason % Intuition)
+:: Mind ~ Chaos { Mind X Reality }
+:: Reality ~ Order { Mind X Reality }
+:: (Reality % Mind) ~ (Order % Chaos)
+.. (Reality % Mind)
+:: (Evidence % Theory) ~ (Reality % Mind)
+.. (Evidence % Theory)
+Reason < (Knowledge % Wisdom) * Natural Order
+Reason(Knowledge % Wisdom) % Intuition
+(Volition % Intellect) % Emotion 
 Reason(Evidence % Logic) % Intuition(Feeling)
-Degeneration of Spirit := (Reason % -)
-Degeneration of Reason := (Evidence % -)
-Inversion of Emotion := (Intuition ~% Reason)
-Inversion of Reason := (Logic ~% Evidence)
+1. Degeneration of Spirit := (Reason % -)
+2. Degeneration of Reason := (Evidence % -)
+3. Inversion of Emotion := (Intuition ~% Reason)
+4. Inversion of Reason := (Logic ~% Evidence)
 .
 Trialetical Ordering := Reason(Evidence % Logic) % Intuition(Feeling)
 Partial Orderings of Demiurge:
 1. Cycle of Ignorance ~ ( (Evidence % Intuition) X Logic )
 (Volition + Emotion) X Intellect
 (Tradition + Faith) X Truth
+:: Religion
 (Knowledge + Intuition) X Wisdom
+:: Scientificism, Empiricism
+(Knowledge + Emotion) X Logic
+:: Socialism, Progressism
 2. Cycle of Perversion ~ ( (Evidence % Logic) X Spirit )
 (Volition + New) X Good
+(Volition + New) X Spirit 
+:: Hedonism
 (Knowledge + Logic) X Spiritual
 3. Cycle of Reclusion ~ ( (Logic % Intuition) X Evidence )
 (Theory + Intuition) X Reality
@@ -38,5 +49,15 @@ Partial Orderings of Demiurge:
 > Can you exemplify those 4 points of failure ? 
 
 Desequilíbrio>Tentação>Pecado>Culpa>Redenção>Devoção
+
+Demiurges Archetype > Devils Archetype > Gods Archetype // Natural Order of Faith 
+God X Devil // Demiurges Trap of Faith 
+
+(Reality % Theory) % Intuition
+(Evidence % Logic) % Feeling
+Reason(Evidence % Logic) % Intuition(Feeling)
+:: Reason(Knowledge % Wisdom) % Intuition
+:: (Volition % Intellect) % Emotion 
+Reason < (Evidence % Theory) * Natural Order
 
 /// END 
