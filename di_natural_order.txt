@@ -5,22 +5,25 @@
 := Object/Relation { Context } // Context Operator
 := Object/Concept < Dialectical Projection * Dialectical Basis // Projection of a Concept/Object 
 := {A,B,C,D} // Objects from Same Context 
+:= A ~ B // Relation 
+:= A ~ B { C } // Relation inside context 
 .
 (Main % Support) >> Stable Relation 
-Stability ~ Existence 
-{Stability,Instability,Existence}
-(Stability % Instability) >> Existence
-{Chaos,Order,Equilibrium}
-Natural Order of Evolution := (Order % Chaos)
+:: Stability ~ Existence 
+:: {Stability,Instability,Existence}
+:: (Stability % Instability) >> Existence
+:: {Chaos,Order,Equilibrium}
+:: (Chaos,Equilibrium,Order) ~ (Instability,Existence,Stability) { Trialetics }
+.. Natural Order of Evolution := (Order % Chaos)
 :: (Chaos ~% Order) >> Instability
 :: (Chaos X Order) >> Destruction
 :: (Order % -) >> Static 
-.. Demiurge Trialetics := (Destruction,Instability,Static) 
+.. Demiurge Archetype Trialetics := (Destruction,Instability,Static) 
 (Order % Chaos) >> Equilibrium 
 :: (Chaos,Equilibrium,Order) ~ (Emotion,Intellect,Volition)
 :: Conscienciousness < (Emotion,Intellect,Volition) * (Perception,Processing,Response)
 :: (Volition % Emotion) >> Intellect { Animal >> Rational Being }
-.. Gods Trialetics := (Chaos,Equilibrium,Order)
+.. Gods Archetype Trialetics := (Chaos,Equilibrium,Order)
 :: Inversion := (Support ~% Main)
 :: Degeneration := (Main % -)
 :: Conflict := (Support X Main)
