@@ -8,8 +8,20 @@ Inductive Dialectical Reasoning [ Analytical School of Philosophy ]
 Language ~ Informal // Ordinary verbal language 
 Dialetics ~ Semiformal // Symbols and Operators mixed with concepts and verbal language 
 Logic ~ Formal // Statements mapped to Symbols and Operators 
-'General Philosophy'(Language) % 'Analytical Philosophy'(Dialetics % Logic)
+? 'General Philosophy'(Language) % 'Analytical Philosophy'(Dialetics % Logic) { Philosophy }
+:: 'General Philosophy'(Language) ~ Others
+:: 'Analytical Philosophy'(Dialetics % Logic) ~ Adept 
+:: (Others % Adept) ~ (Others % Self) ~ (Reality % Mind) ~ Natural Order 
+.. 
 Dialetics ~ Inductive ~ Heuristic
 Logic ~ Deductive ~ Deterministic
+? (Logic % Dialetics) % Language { Formalism }
+:: Logic ~ Formal ~ Order { Compared to Dialetics and Language }
+:: Dialetics ~ Semiformal 
+:: Language ~ Informal ~ Mind ~ Ideas ~ Chaos 
+.. 
+
+Techniques [ Dialetics ]
+1. Inductive Threads // Threads of inductive dialectical formulas to help formulate heuristics
 
 /// END 

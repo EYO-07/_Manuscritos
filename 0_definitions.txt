@@ -23,6 +23,14 @@ C
 Q
 W
 E 
+.
+? Socratic Problem 
+:: Subreason of socratic 
+:: ? Subproblem of socratic 
+:: :: (Sub)subreason 
+
+// Inductive Dialectics : follows the natural induction (stepwise constructively) without the need for a clear objective
+// Socratic Dialectics : the objective is stated clearly and justified/demonstrated recursively 
 
 // Dialectical Operators
 := ... // Introduction of a Dialectical Basis Semiformalism on the Reasoning

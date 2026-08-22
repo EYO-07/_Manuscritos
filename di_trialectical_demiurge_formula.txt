@@ -6,48 +6,52 @@
 := A ~ B // Relation 
 := A ~ B { C } // Relation inside context 
 .
-? Reason % Intuition
-:: Intuition ~ Feeling ~ Chaos 
-:: (Reason % Intuition) ~ (Order % Chaos)
-.. 
 ? Reality % Mind
 :: Mind ~ Chaos { Mind X Reality }
 :: Reality ~ Order { Mind X Reality }
 :: (Reality % Mind) ~ (Order % Chaos)
+..
+? Reason(Knowledge % Wisdom) % Intuition
+:: ? Reason % Intuition
+:: :: Intuition ~ Feeling ~ Chaos { Feeling X Intellect } 
+:: :: Reason ~ Intellect ~ Order { Feeling X Intellect }
+:: :: (Reason % Intuition) ~ (Order % Chaos) 
+:: .. 
+:: ? Reason < (Knowledge % Wisdom) * Natural Order
+:: :: Knowledge ~ Reality 
+:: :: Wisdom ~ Mind 
+:: :: (Knowledge % Wisdom) ~ (Order % Chaos)
+:: .. 
 .. 
 ? Evidence % Theory
 :: (Evidence % Theory) ~ (Reality % Mind)
 ..
-? Reason(Knowledge % Wisdom) % Intuition
-:: Reason % Intuition
-:: ? Reason < (Knowledge % Wisdom) * Natural Order
-:: :: Knowledge ~ Reality 
-:: :: Wisdom ~ Mind 
-:: .. 
-.. 
 (Volition % Intellect) % Emotion 
+Reason(Knowledge % Wisdom) % Intuition
 Reason(Evidence % Logic) % Intuition(Feeling)
 1. Degeneration of Spirit := (Reason % -)
 2. Degeneration of Reason := (Evidence % -)
 3. Inversion of Emotion := (Intuition ~% Reason)
 4. Inversion of Reason := (Logic ~% Evidence)
 .
-Trialetical Ordering := Reason(Evidence % Logic) % Intuition(Feeling)
+Trialetical Ordering (Gods Archetype) := Reason(Evidence % Logic) % Intuition(Feeling)
 Partial Orderings of Demiurge:
-1. Cycle of Ignorance ~ ( (Evidence % Intuition) X Logic )
+1. Cycle of Ignorance ~ ( (Evidence + Intuition) X Truth )
 (Volition + Emotion) X Intellect
 (Tradition + Faith) X Truth
 :: Religion
+(Spiritual Evidence + Feeling) X Truth 
+:: Spiritualism 
 (Knowledge + Intuition) X Wisdom
 :: Scientificism, Empiricism
 (Knowledge + Emotion) X Logic
 :: Socialism, Progressism
-2. Cycle of Perversion ~ ( (Evidence % Logic) X Spirit )
+2. Cycle of Perversion ~ ( (Evidence + Logic) X Spiritual )
 (Volition + New) X Good
 (Volition + New) X Spirit 
 :: Hedonism
 (Knowledge + Logic) X Spiritual
-3. Cycle of Reclusion ~ ( (Logic % Intuition) X Evidence )
+3. Cycle of Reclusion ~ ( (Logic + Intuition) X Evidence )
 (Theory + Intuition) X Reality
 (Feeling + Fiction) X Reality
 
@@ -66,5 +70,9 @@ Reason(Evidence % Logic) % Intuition(Feeling)
 :: Reason(Knowledge % Wisdom) % Intuition
 :: (Volition % Intellect) % Emotion 
 Reason < (Evidence % Theory) * Natural Order
+
+Intellectual Types > (Cycle of Perversion | Cycle of Ignorance) { Denial of Spiritual Truth }
+Emotional Types > (Cycle of Reclusion | Cycle of Ignorance) { Denial of Logic or Evidence }
+Volitional Types > (Cycle of Ignorance | Cycle of Perversion) { Denial of Logical Soundness }
 
 /// END 
