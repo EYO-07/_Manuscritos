@@ -1,0 +1,15 @@
+/// BEGIN 
+
+Inductive Dialectical Reasoning [ Analytical School of Philosophy ]
+:= Main % Support // Natural Order Dialectical Basis 
+:= A ~ B // Relation 
+. 
+{Language,Dialetics,Logic} 
+Language ~ Informal // Ordinary verbal language 
+Dialetics ~ Semiformal // Symbols and Operators mixed with concepts and verbal language 
+Logic ~ Formal // Statements mapped to Symbols and Operators 
+'General Philosophy'(Language) % 'Analytical Philosophy'(Dialetics % Logic)
+Dialetics ~ Inductive ~ Heuristic
+Logic ~ Deductive ~ Deterministic
+
+/// END 
