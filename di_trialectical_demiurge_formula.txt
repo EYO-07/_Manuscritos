@@ -6,18 +6,25 @@
 := A ~ B // Relation 
 := A ~ B { C } // Relation inside context 
 .
-Reason % Intuition
+? Reason % Intuition
 :: Intuition ~ Feeling ~ Chaos 
 :: (Reason % Intuition) ~ (Order % Chaos)
-.. (Reason % Intuition)
+.. 
+? Reality % Mind
 :: Mind ~ Chaos { Mind X Reality }
 :: Reality ~ Order { Mind X Reality }
 :: (Reality % Mind) ~ (Order % Chaos)
-.. (Reality % Mind)
+.. 
+? Evidence % Theory
 :: (Evidence % Theory) ~ (Reality % Mind)
-.. (Evidence % Theory)
-Reason < (Knowledge % Wisdom) * Natural Order
-Reason(Knowledge % Wisdom) % Intuition
+..
+? Reason(Knowledge % Wisdom) % Intuition
+:: Reason % Intuition
+:: ? Reason < (Knowledge % Wisdom) * Natural Order
+:: :: Knowledge ~ Reality 
+:: :: Wisdom ~ Mind 
+:: .. 
+.. 
 (Volition % Intellect) % Emotion 
 Reason(Evidence % Logic) % Intuition(Feeling)
 1. Degeneration of Spirit := (Reason % -)

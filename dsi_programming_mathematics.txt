@@ -1,0 +1,60 @@
+/// BEGIN
+
+// Trialetics of Computing 
+Real Applications % ( Problem Solving Techniques % Logical Demonstration )
+:: Beta ~ Volition
+:: Gama ~ Intellect
+:: Alfa ~ Emotion 
+:: Beta % ( Gama Beta % Gama Alfa )
+Computing % Mathematics 
+Computing % Mathematics(Calculus % Analysis)
+:: Computing(Applications) % Mathematics( Calculus(Problem) % Analysis(Logic) )
+
+Computing
+:: Aritmetic Calculator 
+:: Plotting 
+:: Curve Fitting 
+:: Optimization 
+:: 
+
+Imperative Paradigm 
+Event Oriented Paradigm 
+Class Oriented Paradigm 
+Spellcasting Paradigm 
+
+Aritmética 
+:: Aritmética de Naturais 
+:: Aritmética de Inteiros 
+:: Aritmética de Racionais 
+:: Aritmética de Reais 
+
+Variáveis 
+Funções 
+Equações 
+Relações 
+Reta 
+Parábola 
+Polinômio 
+Exponencial e Logaritmo 
+Trigonometria 
+Sistema de Equações
+
+Análise 
+:: Derivadas 
+:: Integrais
+:: Séries 
+:: 
+Álgebra 
+:: Álgebra Linear
+:: Teoria dos Números 
+
+
+Derivadas 
+Integrais 
+Álgebra 
+Álgebra Linear 
+Geometria Analítica 
+Análise 
+Análise Harmônica
+
+/// END 
