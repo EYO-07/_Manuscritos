@@ -1,20 +1,28 @@
 /// BEGIN
 
-Compreensão ~ Consciência Intelectual 
-Objeto < Compreensão * Fisiologia dos Sentidos 
-Objeto < Formas da Imaginação * Memória 
-Objeto < Representação * Formas 
-Objeto < Definição * Linguagem 
-Objeto < Modelo * Formalização de Estrutura
-Objeto < Analogia * Objeto
-Objeto { Contexto }
-(Analogia ~ Mapa){Compreensão}
-Objeto < Projeção * Modelagem
-Objeto < Projeção Dialética * Base Dialética
-
-Conceito X Objeto 
-(Conceito,Objeto) ~ (Conteúdo,Forma)
-
-
+:= Object/Relation { Context } // Context Operator
+:= {A,B,C,D} // Objects from Same Context 
+:= A ~ B // Relation 
+:= A ~ B { C } // Relation inside context 
+:= A X B // Hegelian contraposition dialetics, A compared to B, distinguished, confronted
+.
+Understanding ~ Intellectual Consciousness 
+:: Feeling ~ Emotional Consciousness 
+:: Free Will ~ Volitional Consciousness 
+(Object X Concept) ~ (Reality X Mind)
+Model ~ Modelling ~ Manipulation ~ Control 
+:= Object < Model * Basis // A model is something that our mind can manipulate/control easier than the bare concept using a modelling toolbox called basis.
+:: Object < Bare Concept * Brain Physiology 
+:: Object < Visual Forms in Imagination of Object * Imagination 
+:: Object < Definition * Language 
+:: Object_1 < Analogy * Object_2
+:: Abstract Concept < Analogy * Concrete Concept 
+.
+(Model ~ Analogy ~ Map){ Understanding }
+Object < Projection * Structure 
+Object < Dialectical Projection * Dialectical Basis 
+.
+Topological Basis := (Form,Content) // Example of Dialectical Basis 
+:: Concept < (Name,Definition) * Topological Basis { Language }
 
 /// END

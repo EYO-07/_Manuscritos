@@ -1,6 +1,7 @@
 /// BEGIN
 
 := Main % Support // Natural Order Dialectical Basis 
+:= Support ~% Main // Inversion of Natural Order 
 := Structure >> Emergence // Emergence of an entity or relation through a structure dynamics
 := Object/Relation { Context } // Context Operator
 := Object/Concept < Dialectical Projection * Dialectical Basis // Projection of a Concept/Object 
@@ -21,7 +22,7 @@
 .. Demiurge Archetype Trialetics := (Destruction,Instability,Static) 
 (Order % Chaos) >> Equilibrium 
 :: (Chaos,Equilibrium,Order) ~ (Emotion,Intellect,Volition)
-:: Conscienciousness < (Emotion,Intellect,Volition) * (Perception,Processing,Response)
+:: Consciousness < (Emotion,Intellect,Volition) * (Perception,Processing,Response)
 :: (Volition % Emotion) >> Intellect { Animal >> Rational Being }
 .. Gods Archetype Trialetics := (Chaos,Equilibrium,Order)
 :: Inversion := (Support ~% Main)

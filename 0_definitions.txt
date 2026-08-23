@@ -1,41 +1,50 @@
 /// BEGIN : 0_definitions.txt
 
-1. di_NAME.txt // Dialectical Induction : A codified text using semiformal models from dialetical projections to display a natural inductive reasoning (stepwise constructively inductive reasoning), from basic dialectical fórmulas to complex ones.
-// Artificial Induction : The process of decodification of a dialectical induction reasoning using LLMs.
-2. ds_NAME.txt // Socratic Dialectical Analysis : Structured semiformal socratic dialogue for general analysis.
-
-The Dialetical Modelling often uses inductive reasoning through symbolic semiformalism to state ideas in compact, naturally induced way, from basic concept projections to more refined and hypothetical models.
-Is ineffective to write those inductions on common language, as the language could deviate, hides or even viciate the process, the best approach is to separate the dialectical induction and keeps the text for yourself and compare those versions.
-The artificial induction is one of the ways to compare and even test the quality of an artificial intelligence.
+1. Dialectical Induction / Inductive Dialectical Reasoning // A codified text using semiformal models from dialetical projections to display a natural inductive reasoning (stepwise constructively inductive reasoning), from basic dialectical fórmulas to complex ones.
+2. Artificial Induction // The process of decodification of a dialectical induction reasoning using LLMs. 
+3. Socratic Dialectical Analysis // Structured semiformal socratic dialogue for general analysis.
+'di_<name>.txt' / 'ds_<name>.txt' / 'dsi_<name>.txt'
+.
+// The Dialetical Modelling often uses inductive reasoning through symbolic semiformalism to state ideas in compact, naturally induced way, from basic concept projections to more refined and hypothetical models. 
+// Is not effective to write those inductions on common language, as the language could deviate, hides or even viciate the process, the best approach is to separate the dialectical induction from the outcoming text. 
+// The inductive reasoning can be curated and revised more easily.
+// The artificial induction is one of the ways to compare and even test the quality of an artificial intelligence.
+.
 ( Socratic Dialectics + Dialectical Inductive Reasoning ) > { Possible Texts }
 ( Socratic Dialectics + Dialectical Inductive Reasoning ) > LLM > { Possible Texts }
 
-/// Notation: here some explanation about notation on inductive dialectical reasoning
-
-// Reason 
+/// Notation: here some explanation about notation on inductive dialectical reasoning 
+// Reason Example 
 A
 B 
-:: B1 // Subreason
+:: B1 // Subreason Example
 :: B2
 .. // End of subreason
-C
-. // New thread of reasoning
+C 
+. // New thread of reasoning. Threads joined by . means that those parts of text was curated, threads isolated by empty lines are sketches.
 Q
 W
-E 
 .
-? Socratic Problem 
+? Socratic Problem // Often used form formal logical demonstration, but can be used to justify a dialectical fórmula, so can be used on context of deduction(logic) or induction(dialetics).
 :: Subreason of socratic 
 :: ? Subproblem of socratic 
 :: :: (Sub)subreason 
-
-// Inductive Dialectics : follows the natural induction (stepwise constructively) without the need for a clear objective
-// Socratic Dialectics : the objective is stated clearly and justified/demonstrated recursively 
-
+.
+// Is often more effective to show the dialetics of the learning than writing a text 
+? Problem // Socratic Dialectics or just the Dialectics of the problem 
+?? Subproblem 
+.
+[ Inductive X Socratic Dialetics ]
+1. Inductive Dialectics // follows the natural induction (stepwise constructively) without the need for a clear objective
+2. Socratic Dialectics // the objective is stated clearly and justified/demonstrated recursively 
+.
 // Dialectical Operators
 := ... // Introduction of a Dialectical Basis Semiformalism on the Reasoning
 NAME := ... // Definition of Dialectical Basis or Dialectical Projection
 Main % Support // Natural Order Dialectical Basis 
 A X B // Contraposition or Contrast Dialectical Basis (Hegelian Diadic Basis)
+A > B > C ... // Sequence 
+(A,B,C,...) // Structure 
+A >> B // Emergence of B from A 
 
 /// END
