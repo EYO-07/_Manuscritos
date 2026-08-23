@@ -2,25 +2,24 @@
 
 // Trialetics of Computing 
 Real Applications % ( Problem Solving Techniques % Logical Demonstration )
-:: Beta ~ Volition
-:: Gama ~ Intellect
+:: Beta ~ Volition 
+:: Gama ~ Intellect 
 :: Alfa ~ Emotion 
 :: Beta % ( Gama Beta % Gama Alfa )
 Computing % Mathematics 
 Computing % Mathematics(Calculus % Analysis)
 :: Computing(Applications) % Mathematics( Calculus(Problem) % Analysis(Logic) )
 
-Computing
-:: Aritmetic Calculator 
-:: Plotting 
-:: Curve Fitting 
-:: Optimization 
-:: 
+Computing % Mathematics(Calculus % Analysis)
+:: Numbers / Aritmetic Calculator 
+:: Data / Data Management and Plotting 
+:: Mathematical Models / Curve Fitting and Optimization 
 
-Imperative Paradigm 
-Event Oriented Paradigm 
-Class Oriented Paradigm 
-Spellcasting Paradigm 
+Computing || Programming 
+:: Imperative Paradigm 
+:: Event Oriented Paradigm 
+:: Class Oriented Paradigm 
+:: Spellcasting Paradigm 
 
 Aritmética 
 :: Aritmética de Naturais 
