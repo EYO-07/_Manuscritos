@@ -42,7 +42,7 @@ Partial Orderings of Demiurge:
 :: Religion
 (Spiritual Evidence + Feeling) X Truth 
 :: Spiritualism 
-(Knowledge + Intuition) X Wisdom
+(Knowledge + Intuition) X Wisdom(Logical Soundness)
 :: Scientificism, Empiricism
 (Knowledge + Emotion) X Logic
 :: Socialism, Progressism
@@ -54,25 +54,9 @@ Partial Orderings of Demiurge:
 3. Cycle of Reclusion ~ ( (Logic + Intuition) X Evidence )
 (Theory + Intuition) X Reality
 (Feeling + Fiction) X Reality
-
-{ LLM Prompts }
-> Can you explain this ? 
-> Can you exemplify those 4 points of failure ? 
-
-Desequilíbrio>Tentação>Pecado>Culpa>Redenção>Devoção
-
-Demiurges Archetype > Devils Archetype > Gods Archetype // Natural Order of Faith 
-God X Devil // Demiurges Trap of Faith 
-
-(Reality % Theory) % Intuition
-(Evidence % Logic) % Feeling
-Reason(Evidence % Logic) % Intuition(Feeling)
-:: Reason(Knowledge % Wisdom) % Intuition
-:: (Volition % Intellect) % Emotion 
-Reason < (Evidence % Theory) * Natural Order
-
-Intellectual Types > (Cycle of Perversion | Cycle of Ignorance) { Denial of Spiritual Truth }
-Emotional Types > (Cycle of Reclusion | Cycle of Ignorance) { Denial of Logic or Evidence }
-Volitional Types > (Cycle of Ignorance | Cycle of Perversion) { Denial of Logical Soundness }
+.
+Intellectual Type > Cycle of Reclusion by Denial of Reality { Corrupted Environment }
+Emotional Type > Cycle of Ignorance by Denial of Reason { Corrupted Environment }
+Volitional Type > Cycle of Perversion by Denial of Spiritual { Corrupted Environment }
 
 /// END 

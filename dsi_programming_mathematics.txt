@@ -15,11 +15,33 @@ Computing % Mathematics(Calculus % Analysis)
 :: Data / Data Management and Plotting 
 :: Mathematical Models / Curve Fitting and Optimization 
 
+[ Aritmetic ] { Basic Mathematics }
+? What is aritmetic 
+?? What is the natural number system 
+??? What is the decimal representation 
+???? What is an aritmetic operator and an aritmetic calculation 
+???? How the decimal basis helps to perform calculation 
+???? What are sum and subtraction operations 
+???? What is multiplication operation 
+???? What is power operation 
+???? What is a fraction/ratio 
+????? What is the rule of three 
+????? What is a division operation 
+???? Aritmetic Precedence and Aritmetic Expressions 
+???? The zero-representation or null basis and the meaning of number system 
+???? What is the connection between operation table and calculation for a numerical representation 
+??? What are binary basis representation of numbers 
+??? What are generic basis representation of numbers 
+? How to perform aritmetics using calculator 
+? How to perform aritmetics using python 
+
 Computing || Programming 
 :: Imperative Paradigm 
 :: Event Oriented Paradigm 
 :: Class Oriented Paradigm 
 :: Spellcasting Paradigm 
+
+
 
 Aritmética 
 :: Aritmética de Naturais 
