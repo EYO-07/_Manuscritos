@@ -24,5 +24,8 @@ Object < Dialectical Projection * Dialectical Basis
 .
 Topological Basis := (Form,Content) // Example of Dialectical Basis 
 :: Concept < (Name,Definition) * Topological Basis { Language }
+.
+Structural Modelling Basis := (Whole,Parts,Relation) // The procedure of dialectical projections is a kind of structural modelling
+Dialectical Basis < (Vector/List,Components,Assumptions of Relations) * (Whole,Part,Relations)
 
 /// END
