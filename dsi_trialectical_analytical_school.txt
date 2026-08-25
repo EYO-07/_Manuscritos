@@ -1,0 +1,52 @@
+/// BEGIN 
+
+:= Main % Support // Natural Order Dialectical Basis 
+:= A ~ B // Relation 
+:= Object/Relation { Context } // Context Operator
+:= {A,B,C,D} // Objects from Same Context 
+. 
+{Language,Dialetics,Logic} 
+Language ~ Informal // Ordinary verbal language 
+Dialetics ~ Semiformal // Symbols and Operators mixed with concepts and verbal language 
+Logic ~ Formal // Statements mapped to Symbols and Operators 
+? 'General Philosophy'(Language) % 'Analytical Philosophy'(Dialetics % Logic) { Philosophy }
+:: 'General Philosophy'(Language) ~ Others
+:: 'Analytical Philosophy'(Dialetics % Logic) ~ Adept 
+:: (Others % Adept) ~ (Others % Self) ~ (Reality % Mind) ~ Natural Order 
+.. 
+Dialetics ~ Inductive ~ Heuristic
+Logic ~ Deductive ~ Deterministic
+? (Logic % Dialetics) % Language { Formalism }
+:: Logic ~ Formal ~ Order { Compared to Dialetics and Language }
+:: Dialetics ~ Semiformal 
+:: Language ~ Informal ~ Mind ~ Ideas ~ Chaos 
+.. 
+.
+Socratic Dialetics [ Analytical School ] { Philosophy }
+? What is a school of thought in general philosophy 
+!! Exemplify some main schools of thoughts 
+?? What are the main branches of philosophy 
+??? What is Metaphysics
+???? How metaphysics relates with modelling 
+???? How analytical school relates with metaphysics 
+??? What is Epistemology
+???? How analytical school relates with epistemology 
+??? What is Logic
+? What is the Analytical School 
+?? What is the emphasis on Analytical Philosophy 
+?? How it associates with mathematics 
+?? How it associates with science 
+??? What is positivism 
+???? Which authors are considered positivists 
+???? What are the main principles and thesis of positivism 
+?? Main differences between the Analytical School and other school of thoughts 
+??? Main differences of Analytical School with positivism and empirism 
+?? Main authors of Analytical School 
+??? Main contributions of Bertrand Russel to Analytical Philosophy 
+??? Main contributions of Ludwig Wittgenstein to Analytical Philosophy 
+? What is considered the limitations of Analytical School on general philosophy 
+.
+'One of limitations of analytical philosophy is that formal rigorous logic cant be applied easily on any topic, in trialectical analytical philosophy the gap between formalism and informal language is fullfilled by dialectical modelling, which uses semiformalism along with a more weak but flexible inductive reasoning. Nevertheless, as any inductive reasoning, it could lead to artifacts, implicit assumptions based on the method, those assumptions are merely justified, but often not proved, due to the nature of the problem.'
+'The socratic dialectics is the form of the understanding in trialectical analytical view, its not merely a dialogue, but an recursive structure to unfold questions important or necessary for deep understanding. So the socratic dialectics, along hegellian and other types of dialectics belongs to dialectical method, isnt something apart is one of the tools of analytical reasoning along with logic and the informal language.'
+
+/// END 
