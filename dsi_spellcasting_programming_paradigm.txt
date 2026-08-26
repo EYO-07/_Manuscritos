@@ -1,0 +1,122 @@
+/// BEGIN 
+
+{ // Arithmetic { Basic Mathmatics }
+    
+Socratic Dialetics [ Arithmetic ] { Mathmatics }
+? What is arithmetic 
+?? What is the natural number system 
+??? What is the decimal representation 
+???? Is possible to name the numbers without a representation system 
+???? What is an algarism
+???? How to understand a number quantity from decimal representation algarisms 
+???? What is an arithmetic operator and an arithmetic calculation 
+???? How the decimal basis helps to perform calculation 
+???? Is possible to calculate without a basis (number representation system) 
+???? What are sum and subtraction operations 
+????? Traditional techiques to calculate sum and subtraction on decimal system 
+????? How to calculate sum and subtraction on calculator 
+????? How to calculate sum and subtraction on python
+'Calculations should be performed manually and the result is compared with calculator or python'
+>>>>> Give the decimal sum table and some exercises 
+???? What is multiplication operation 
+????? Traditional techiques to calculate multiplication 
+????? How to calculate sum and subtraction on calculator 
+????? How to calculate sum and subtraction on python 
+'Calculations should be performed manually and the result is compared with calculator or python'
+>>>>> Give the decimal multiplication table and some exercises 
+???? What is power operation 
+????? How to represent natural numbers on any numerical basis as a sum of powers
+???? What are root operation 
+???? What is a fraction/ratio 
+????? What is the rule of three 
+????? What is a division operation 
+?????? Traditional techiques to calculate integer division 
+?????? How to calculate sum and subtraction on calculator 
+?????? How to calculate sum and subtraction on python 
+'Calculations should be performed manually and the result is compared with calculator or python'
+>>>>>> Give some exercises 
+???? Arithmetic Precedence and Arithmetic Expressions 
+???? What is the connection between operation table and calculation for a numerical representation 
+??? What are binary basis representation of numbers 
+>>> Give sum and multiplication tables for binary basis and some exercises
+??? What are generic basis representation of numbers 
+'Calculations should be performed manually and the result is compared with calculator or python'
+>>> Give sum and multiplication tables for hexadecimal basis and some exercises
+?? What is the integer numbers 
+??? How to perform operations on decimal system 
+?? What is rational numbers 
+??? How to represent rational numbers on decimal system 
+??? How to perform operations on decimal system 
+?? What is irrational numbers 
+??? How to represent irrational numbers on decimal system 
+??? How to easily prove the existence of irrational numbers 
+?? What is the real numbers 
+??? How to represent real numbers on decimal system 
+??? How to perform operations on decimal system 
+?? What is the complex numbers 
+??? How to represent complex numbers 
+??? How to easily prove the existence of pure complex numbers 
+??? How to perform operations on decimal system 
+? What is the limitation of arithmetic on computing 
+?? Is possible to represent all integers on a computer machine 
+?? Is possible to represent all rationals on a computer machine 
+?? Is possible to represent irrational on a computer machine 
+?? What is the floating point system 
+?? What is float and double on computer science 
+.
+// binary sum table 
+0+0 = 0
+0+1 = 1
+1+0 = 1
+1+1 = 10
+// binary multiplication table 
+0*0 = 0
+0*1 = 0
+1*0 = 0
+1*1 = 1
+X*1ZZZ...Z = XZZZ...Z
+// binary arithmetic exercises 
+1010111+11000110 = ?
+110101101*1000 = ?
+101101*1011 = ?
+110101-1101 = ?
+110101/11 = ?
+? How to write binary literal on python 
+? How to convert binary to decimal and decimal to binary in python 
+? How to perform sum on binary arithmetic 
+? How to perform multiplication on binary arithmetic 
+? How to perform multiplication with pure powers on any representation 1,10,100 ... 
+.
+// Solution Example 
+101101*1011 = 101101*1011 = 101.101.000 + 001.011.010 + 000.101.101 = ?
+-
+101.101.000
+001.011.010
+000.101.101
+-
+102.213.111
+-
+110.213.111
+111.013.111
+111.021.111
+111.101.111
+-
+101101*1011 = 111101111
+// Check with python, just copy the line below and see the output 
+0b101101*0b1011 == 0b111101111 # python 
+
+}
+
+(Command>Script>Automation) ~ (Statements>Conditionals>Loops)
+
+(Variables>Functions>Objects/Classes)
+
+Command>Finite Sequence of Commands>Finite Sequence of Commands with Conditionals>...
+... >Repeati 
+
+
+Socratic Dialetics [ Programming ] { Bash Scripting }
+
+
+
+/// END 
