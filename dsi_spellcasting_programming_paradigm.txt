@@ -107,6 +107,52 @@ X*1ZZZ...Z = XZZZ...Z
 
 }
 
+Socratic Dialetics [ Programming ]
+Computer < (Hardware,Software) * (Form,Content)
+? What is a computer 
+?? What is a hardware
+??? What are computer resources 
+???? What is RAM 
+???? What is HD 
+???? What is Processing Units (CPU/GPU) 
+???? What is Internet 
+?? What is a software
+??? How a software uses computer resources 
+??? What is a firmware
+??? What is a driver 
+Operating System < (Kernel X Desktop Environment) 
+? What is an operating system 
+?? What is a kernel 
+?? What is a desktop environment 
+Operating System < (User Softwares X System Softwares) 
+? What is a program in a operating system 
+Programming < (Language,Compiler/Interpreter,Program) * (Design,Production,Result)
+?? How to create programs 
+??? What is a programming language 
+??? What is a compiler 
+??? What is a interpreter 
+Programming Language < (Syntax,Semantics)
+? What is syntax and semantics {programming languages}
+? What are keywords {programming languages}
+? What are identifiers {programming languages}
+?? What is a variable 
+?? What is a function 
+?? What is an object 
+? What are operators {programming languages}
+? What are control structures {programming languages}
+?? What is a conditional control structure 
+?? What is a repetition control structure 
+
+
+
+
+
+
+
+
+
+
+
 (Command>Script>Automation) ~ (Statements>Conditionals>Loops)
 
 (Variables>Functions>Objects/Classes)
@@ -115,7 +161,8 @@ Command>Finite Sequence of Commands>Finite Sequence of Commands with Conditional
 ... >Repeati 
 
 
-Socratic Dialetics [ Programming ] { Bash Scripting }
+
+
 
 
 
