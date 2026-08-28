@@ -1,0 +1,130 @@
+/// BEGIN 
+
+// Generic Socratic Dialetics and Inductive Reasoning 
+// ... it could be used to create curated socratics or dialectical inductive reasonings 
+
+// ===========================================================================================================
+// Programming/Computing
+
+[ Computing ] { Technology }
+Computer < (Hardware,Software) * (Form,Content)
+? What is a computer 
+?? What kind of computation machines existed before the personal computer and smartphones 
+Hardware < (Input,Processing/Storage,Output){ Data }
+? What is a hardware 
+?? Whats the main hardware components 
+??? What are computer resources 
+???? What is RAM/HD/Processing Units(CPU/GPU) 
+???? What is Internet 
+Software < (Interface,Functionality) * (Form,Content)
+? What is a software 
+?? What is a firmware 
+?? How/when a software uses computer resources 
+Operating System < (Kernel X Desktop Environment) 
+? What is an operating system 
+?? What is a kernel 
+?? What is a desktop environment 
+
+[ Programming ] { Computing }
+
+Programming Language < (Syntax,Semantics)
+Programming < (Commands,Scripts,Automation) 
+Scripts < (Commands,Conditionals)
+Automation < (Commands,Conditionals,Repetition)
+
+// ===========================================================================================================
+// Mathematics 
+
+// ===========================================================================================================
+// Religion 
+
+Culture < (Society,Beliefs)
+Society ~ Beliefs, Religion, Politics/Economics, Ethnicity
+Beliefs ~ Literature, Religion, Education, Academy
+Culture < (Present,Past) * Time 
+
+[ Catholicism ] { Theology }
+Subject < (Definition,History,Relation) { Historical Subject }
+? What is catholicism 
+?? What is a religion 
+?? What is a religion by catholicism itself 
+?? Main beliefs of catholicism 
+??? Catholicism X Judaism 
+???? How the connotation of God shifts on old and new testment 
+????? What is the catholic view of this shift 
+???? Expiation Sacrifices ~ Sacrifice of Christ on the cross 
+????? What gives support to that thesis 
+???? How it differs from Judaic messianic beliefs 
+??? Catholicism X Protestantism 
+???? Main branches of protestantism and their motivation for separation from Catholic Church 
+??? What is the trinity
+???? When this doctrine was developed 
+???? Who develops the trinity doctrine 
+???? Why it seems off compared to early christianity 
+??? What are sacraments 
+???? What are the seven sacraments and how it differs from early christians 
+? How catholicism develops 
+?? Catholicism X Early Christianity 
+?? Catholicism ~ Constantine
+??? What was the council of Nicaea 
+???? What was Nicene creed 
+???? What was the controversy that resulted on council of Nicaea 
+?? When and how papacy becomes part of catholic tradition 
+? Catholicism ~ Science 
+?? Contributions to science from catholicism 
+?? Conflicts in history between science and catholicism 
+? Catholicism ~ Morality
+? Catholicism ~ Philosophy 
+?? What truth and pursue of truth means to catholicism and how it differ from modern rational philosophy 
+
+[ Spiritism ] { Theology } 
+Subject < (Definition,History,Relation) { Historical Subject }
+? What is the religion of spiritism 
+?? What kinds of spiritism exists 
+?? What are their practices and beliefs
+??? What is mediumship 
+???? What kind of mediumships exists on spiritism beliefs
+? How the spiritism develops 
+?? Who was responsible for their creations 
+??? Importance of Allan Kardec 
+?? How it differ from the other religions development 
+?? What was the motivation to development of spiritism 
+? What is the relation between spiritism and science 
+? What is the relation between spiritism and christianity 
+? Conflicts between spiritism and science
+? Spiritism ~ Paganism 
+? Spiritism ~ Budhism 
+? Spiritism ~ Esoterism 
+? Spiritism ~ Christianity 
+?? Why some christian religions forbidden the practices of spiritism 
+??? What is written on old testment about forbidden practices analog to spiritism 
+
+[ Candomblé ] { Teologia }
+Subject < (Definition,History,Relation) { Historical Subject }
+? O que é o Candomblé 
+?? Quais as suas vertentes 
+?? Candomblé ~ Catolicismo 
+?? Candomblé ~ Espiritismo 
+?? Candomblé ~ Religiões Africanas 
+?? Quais as principais crenças do candomblé 
+? Quando surgiu a religião do candomblé 
+?? Quem criou a religião do candomblé 
+?? Quais eram as práticas anteriores ao candomblé 
+? Candomblé ~ Macumba
+
+[ Umbanda ] { Teologia }
+Subject < (Definition,History,Relation) { Historical Subject }
+? O que é a Umbanda
+?? Quais as principais crenças da Umbanda
+?? Umbanda ~ Candomblé 
+? Como surgiu a religião Umbanda
+?? Quem criou a religião Umbanda
+??? Quem foi Antônio Conselheiro 
+?? Quando surgiu a religião da Umbanda 
+?? Sincretismo Esotérico ~ Umbanda 
+??? Quando surgiu o movimento sincrético do esoterismo 
+?? Quais as motivações de sua criação 
+? Umbanda ~ Macumba
+? Umbanda ~ Espiritismo 
+
+/// END 

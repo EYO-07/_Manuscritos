@@ -1,6 +1,36 @@
 /// BEGIN 
 
-{ // Arithmetic { Basic Mathmatics }
+{ // Arithmetics { Basic Mathmatics }
+    
+Socratic Dialetics [ Arithmetics ] { Mathematics }
+Number ~ Representation System { Quantity }
+? What is a number 
+?? Is possible to name all quantities without a system 
+Number < (Algarisms,Basis) 
+Number System ~ Grouping and Repetition { Algarisms System } 
+? How numbers are represented through algarisms 
+? What each algarism level represents 
+? Algarisms ~ Comparison { Order }
+? What is the decimal system 
+? What is the binary system 
+'Lets suppose that there was no operation on numbers, no calculation. A person take notes of his small business, so each time he earn it, he takes a note using +n on his ledger, with n the gained gold coins, each time he needs to ressuply he takes some gold coins from it and take note using -m of m gold coins needed. After a long iteration, he wants to know if his business is growing, shrinking, or is stabilized. Each month there are enough notes to be impossible to know for sure if its growing, shrinking or stabilized, so how can he compare each month without calculating the exact quantity based on his notes? Knowing how to calculate the exact quantity based on his notes would help him compare his earnings?'
+Dialectical Basis of Mathematics := (Calculation,Tables/Properties/Theorems){Symbolic Representation}
+(Calculation,Tables/Properties/Theorems) ~ (Formal Reasoning, Memorization) 
+Arithmetic < (Calculation,Operator Tables){Number Base System}
+? What is sum and how to calculate sum on any basis 
+? What is subtraction and how to calculate subtraction on any basis 
+Multiplication ~ Grouping 
+? What is multiplication 
+?? How to calculate multiplication between a number and a unit power on any basis 
+?? How to calculate multiplication between a number and a single digit number on any basis 
+?? How to calculate multiplication between two numbers on any basis 
+Division ~ Grouping 
+? What is division 
+?? Is possible to divide by zero
+??? If division is representing a number by groups of equal size, what division by zero means 
+?? How to calculate integer division between a number and a single digit number on any basis 
+?? How to calculate integer division between a number and two digit number on any basis 
+?? How to calculate integer division between two numbers on any basis 
     
 Socratic Dialetics [ Arithmetic ] { Mathmatics }
 ? What is arithmetic 
@@ -106,6 +136,7 @@ X*1ZZZ...Z = XZZZ...Z
 0b101101*0b1011 == 0b111101111 # python 
 
 }
+{ // Programming and Computation Concepts { Basic Computation }
 
 Socratic Dialetics [ Programming ]
 Computer < (Hardware,Software) * (Form,Content)
@@ -143,14 +174,7 @@ Programming Language < (Syntax,Semantics)
 ?? What is a conditional control structure 
 ?? What is a repetition control structure 
 
-
-
-
-
-
-
-
-
+}
 
 
 (Command>Script>Automation) ~ (Statements>Conditionals>Loops)
