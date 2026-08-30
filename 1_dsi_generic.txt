@@ -25,9 +25,22 @@ Operating System < (Kernel X Desktop Environment)
 ?? What is a kernel 
 ?? What is a desktop environment 
 
-[ Programming ] { Computing }
+[ Artificial Intelligence ] { Computing }
+? What is an Artificial Intelligence 
+? What is an LLM 
+?? What is a mathematical model 
+??? What is a parameter and parameter adjust on mathematical models
+?? LLM ~ mathematical model 
+?? LLM ~ linear álgebra 
+? How neural networks artificial intelligence develops 
+?? Basic forms of neural networks 
+?? Neural networks for advanced LLMs 
 
+[ Programming ] { Computing }
 Programming Language < (Syntax,Semantics)
+? What is a language 
+?? What is syntax 
+?? What is semantics 
 Programming < (Commands,Scripts,Automation) 
 Scripts < (Commands,Conditionals)
 Automation < (Commands,Conditionals,Repetition)
@@ -43,7 +56,7 @@ Society ~ Beliefs, Religion, Politics/Economics, Ethnicity
 Beliefs ~ Literature, Religion, Education, Academy
 Culture < (Present,Past) * Time 
 
-[ Catholicism ] { Theology }
+/** [ Catholicism ] { Theology }
 Subject < (Definition,History,Relation) { Historical Subject }
 ? What is catholicism 
 ?? What is a religion 
@@ -76,8 +89,8 @@ Subject < (Definition,History,Relation) { Historical Subject }
 ? Catholicism ~ Morality
 ? Catholicism ~ Philosophy 
 ?? What truth and pursue of truth means to catholicism and how it differ from modern rational philosophy 
-
-[ Spiritism ] { Theology } 
+*/
+/** [ Spiritism ] { Theology } 
 Subject < (Definition,History,Relation) { Historical Subject }
 ? What is the religion of spiritism 
 ?? What kinds of spiritism exists 
@@ -98,8 +111,8 @@ Subject < (Definition,History,Relation) { Historical Subject }
 ? Spiritism ~ Christianity 
 ?? Why some christian religions forbidden the practices of spiritism 
 ??? What is written on old testment about forbidden practices analog to spiritism 
-
-[ Candomblé ] { Teologia }
+*/
+/** [ Candomblé ] { Teologia }
 Subject < (Definition,History,Relation) { Historical Subject }
 ? O que é o Candomblé 
 ?? Quais as suas vertentes 
@@ -111,8 +124,8 @@ Subject < (Definition,History,Relation) { Historical Subject }
 ?? Quem criou a religião do candomblé 
 ?? Quais eram as práticas anteriores ao candomblé 
 ? Candomblé ~ Macumba
-
-[ Umbanda ] { Teologia }
+*/
+/** [ Umbanda ] { Teologia }
 Subject < (Definition,History,Relation) { Historical Subject }
 ? O que é a Umbanda
 ?? Quais as principais crenças da Umbanda
@@ -126,5 +139,9 @@ Subject < (Definition,History,Relation) { Historical Subject }
 ?? Quais as motivações de sua criação 
 ? Umbanda ~ Macumba
 ? Umbanda ~ Espiritismo 
+*/
+
+// ===========================================================================================================
+// ... 
 
 /// END 
