@@ -6,6 +6,8 @@
 // ===========================================================================================================
 // Programming/Computing
 
+Computer % LLM % Programming 
+
 [ Computing ] { Technology }
 Computer < (Hardware,Software) * (Form,Content)
 ? What is a computer 
@@ -25,16 +27,20 @@ Operating System < (Kernel X Desktop Environment)
 ?? What is a kernel 
 ?? What is a desktop environment 
 
-[ Artificial Intelligence ] { Computing }
-? What is an Artificial Intelligence 
-? What is an LLM 
+[ Neural Network Artificial Intelligence ] { Computing }
+? What is a neural network artificial intelligence 
 ?? What is a mathematical model 
 ??? What is a parameter and parameter adjust on mathematical models
-?? LLM ~ mathematical model 
-?? LLM ~ linear álgebra 
+?? How neural network mathematical model works 
+??? What is inference 
+??? What is data training 
+?? Basic forms of neural networks artificial networks 
+??? How to make a basic artificial neural network
+???? How to adjust over a data set 
+???? How to perform inference from a new data 
+? What is an LLM 
 ? How neural networks artificial intelligence develops 
-?? Basic forms of neural networks 
-?? Neural networks for advanced LLMs 
+
 
 [ Programming ] { Computing }
 Programming Language < (Syntax,Semantics)
@@ -45,8 +51,50 @@ Programming < (Commands,Scripts,Automation)
 Scripts < (Commands,Conditionals)
 Automation < (Commands,Conditionals,Repetition)
 
+(Programming Problems,Syntax Tables){Programming Language}
+
 // ===========================================================================================================
 // Mathematics 
+
+Socratic Dialetics [ Arithmetics ] { Mathematics }
+Number ~ Representation System { Quantity }
+? What is a number 
+?? Is possible to name all quantities without a system 
+Number < (Algarisms,Basis) 
+Number System ~ Grouping and Repetition { Algarisms System } 
+? How numbers are represented through algarisms 
+? What each algarism level represents 
+? Algarisms ~ Comparison { Order }
+? What is the decimal system 
+? What is the binary system 
+(Reasonings,Inferences){Symbolic Abstract Framework}
+(Calculation,Operator Tables){Arithmetics}
+Arithmetic < (Calculation,Operator Tables){Number Base System}
+? What is sum and how to calculate sum on any basis 
+? What is subtraction and how to calculate subtraction on any basis 
+Multiplication ~ Grouping 
+? What is multiplication 
+?? How to calculate multiplication between a number and a unit power (1,10,100,1000,...) on any basis 
+?? How to calculate multiplication between a number and a single digit number on any basis 
+?? How to calculate multiplication between two numbers on any basis 
+Division ~ Grouping 
+? What is division 
+?? Is possible to divide by zero
+??? If division is representing a number by groups of equal size, what division by zero means 
+?? How to calculate integer division between a number and a single digit number on any basis 
+?? How to calculate integer division between a number and two digit number on any basis 
+?? How to calculate integer division between two numbers on any basis 
+? What is a fraction, ratio, rule of three 
+? What is arithmetic precedence and arithmetic expressions
+? What is integer numbers and how to perform calculations based on naturals
+? What is rational numbers and how to perform arithmetic calculations
+
+(Programming,Syntax Tables){Programming Language}
+? How to use python to perform arithmetic calculations 
+?? How to represent a number on arbitrary arithmetic basis 
+?? How to convert numbers from arbitrary arithmetic basis 
+
+(Know how to > Automate) { Mathematical Knowledge }
 
 // ===========================================================================================================
 // Religion 
