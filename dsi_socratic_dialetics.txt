@@ -29,12 +29,19 @@ Socratic Dialetics < (Understanding of Whole, Understand of Parts, Understand of
 ? Model ~ Map 
 ?? What is a map 
 ?? What is the meaning of mapping 
-?? How a map improve the conciousness 
+?? How a map improve the consciousness 
 Socratic Dialetics < ( Knowledge Mapping X Debate/Dialogue ) * (Simple X Complex)
-
+Understand < (
+    Feeling as natural,
+    Ability to explain or ability to navigate through definitions and related concepts,
+    Ability to predict or solve related problems) * (Emotion,Intellect,Volition)
 ? What is the phenomenon of understanding 
-?? Is possible to understand without a language
-?? Is possible to understand without a model 
+?? Is possible to understand without a language 
+??? How a language can improve the consciousness of human beings about their reality 
+?? Is possible to understand without a model
+??? Is possible to understand without generating concepts on our memory 
+??? Can the memory be seen as a model of something into our memory
 ?? Is possible to understand without imagination 
+?? Is possible to understand without feeling
 
 /// END
