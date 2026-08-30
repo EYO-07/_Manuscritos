@@ -5,7 +5,7 @@
 2. The socratic of some topic is a dynamic entity, it should be refined, improved to better map the knowledge of this topic. 
 3. The trialectical anaytical school consider the tension and contradiction an important part of, but reject the emphasis on it by influence of marxism/hegelian dialetics on socratic. The socratic dialetics isnt solely for highlighting contradictions, but to map the form of deep understanding.
 4. On trialectical school there are two kinds of socratics, one to expose the basics of the knowledge of a topic, those are more polite, concise and dont resemble much the socratic dialogue, and the other are the socratic that is used on discussion or for self-reflection. The second one is where more refined questions arises and resembles the irony method of socratic dialogue. The former socratic intent is just to guide the learning process of a subject.
-'While the knowledge mapping socratic is encouraged to be simple and organized, the dialogue socratic is encouraged to be refined and complicated, to externalize ones pursue of true knowledge. Truth be told, designing a socratic is actually a kind of art, one should account for many attributes, for example: the size, insightful questions, effectiveness, if should be organized, but not too much complicated, it should be deep enough or just enough for their purpose.'
+'While the knowledge mapping socratic is encouraged to be simple and organized, the dialogue socratic is encouraged to be refined and complicated, to externalize ones pursue of true knowledge. Truth be told, designing a socratic is actually a kind of art, one should account for many attributes, for example: the size, insightful questions, effectiveness, should be organized, but not too complicated, should be deep enough or just enough for their purpose.'
 'The emphasis on underlying contradictions seems to be overestimated by hegelian dialetics, as it seems that the process of division of topics isnt a contradiction process, but a induction of the form, and even on relation between the parts of a model could not reveal contradiction, but interaction, complementarity, support.'
 
 := A ~ B // Relation 
@@ -19,7 +19,7 @@ Dialetics ~ Structure { Concept Understanding }
 ?? What is dialetics on general context 
 ?? How it differ from socratic dialetics 
 ?? How it compares with socratic dialetics 
-Socratic Dialetics ~ Structure/Form { Topic Understanding } 
+Socratic Dialetics ~ Structure/Form { Topic Understanding }
 ? How socratic dialetics is performed 
 ?? What are the steps on socratic dialogue 
 ??? What is irony and maieutic on socratic dialogue 
@@ -31,5 +31,10 @@ Socratic Dialetics < (Understanding of Whole, Understand of Parts, Understand of
 ?? What is the meaning of mapping 
 ?? How a map improve the conciousness 
 Socratic Dialetics < ( Knowledge Mapping X Debate/Dialogue ) * (Simple X Complex)
+
+? What is the phenomenon of understanding 
+?? Is possible to understand without a language
+?? Is possible to understand without a model 
+?? Is possible to understand without imagination 
 
 /// END

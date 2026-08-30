@@ -56,6 +56,10 @@ Society ~ Beliefs, Religion, Politics/Economics, Ethnicity
 Beliefs ~ Literature, Religion, Education, Academy
 Culture < (Present,Past) * Time 
 
+[ Faith ]
+? What is faith 
+?? Faith ~ (Intellect X Feeling(Emotion)) 
+
 /** [ Catholicism ] { Theology }
 Subject < (Definition,History,Relation) { Historical Subject }
 ? What is catholicism 
