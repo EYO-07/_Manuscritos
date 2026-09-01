@@ -120,11 +120,34 @@ Natural>Integer>Rational>Real
 ?? How to represent a number on arbitrary arithmetic basis 
 ?? How to convert numbers from arbitrary arithmetic basis 
 
+[ Practical/Computational/Mathematical Knowledge ] { Epistemology }
+(How to perform > How to delegate) { Knowledge }
+Knowledge < ( Knowledge to Perform X Knowledge to Delegate )
+Knowledge to use a service/product X Knowledge to perform a service/product 
+Automate ~ Delegate { Machine/Computer/Calculators }
+? What are the risks of only knowing how to delegate/automate 
+?? Can someone verify the correctness of the process without knowing how to perform 
+??? How to verify without knowing 
+???? Is possible to deletage the verification to a trusted party 
+? Is effective to everyone knows every detail of how to perform of every part of anything 
+
+[ Practical Knowledge ] { Epistemology }
+Knowledge < ( To Use X To Obtain ) { Service/Product }
+To Use > To Obtain ( To Buy > To Produce )
+To Use ~ Prediction { Functional Abstraction }
+Knowledge < ( To Perform X To Delegate ) { Service }
+Production ~ Service 
+
+
 [ Mathematical Knowledge ] { Epistemology }
-(Know how to > Know how to automate) { Mathematical Knowledge }
+(Know how to perform > Know how to automate) { Mathematical Knowledge }
 ? How to acquire mathematical knowledge 
 ?? Is possible to automate without knowing how to do 
-??? Is possible to verify the correctness of automation without knowing 
+??? Risks to automate without knowing how to do 
+???? Is possible to verify the correctness of automation without knowing how to do 
+?? How to acquire the knowledge to perform 
+?? How to acquire the knowledge to automate using machines or technology 
+    
 
 // ===========================================================================================================
 // Religion 
