@@ -2,9 +2,12 @@
 
 // Generic Socratic Dialetics and Inductive Reasoning 
 // ... it could be used to create curated socratics or dialectical inductive reasonings 
+// ... they are mainly threads of thoughts, eventually becoming something useful for learning 
 
 // ===========================================================================================================
 // Programming/Computing
+
+Computing < (Data Storage, Data Processing, Data Visualization)
 
 Computer % LLM % Programming 
 
@@ -41,6 +44,12 @@ Operating System < (Kernel X Desktop Environment)
 ? What is an LLM 
 ? How neural networks artificial intelligence develops 
 
+Computing < (Storage,Processing,Visualization){Data}
+Storage || Variables || Declaration | Assignment 
+Processing || Expression Evaluation | Function Calls 
+Abstractions || Function Declaration | Object Declaration 
+
+
 
 [ Programming ] { Computing }
 Programming Language < (Syntax,Semantics)
@@ -50,6 +59,14 @@ Programming Language < (Syntax,Semantics)
 Programming < (Commands,Scripts,Automation) 
 Scripts < (Commands,Conditionals)
 Automation < (Commands,Conditionals,Repetition)
+
+Computing < (Storage,Processing,Visualization){Data}
+(Unit,Environment) ~ (Existence,Universe)
+(Thought,Mind) ~ (Unit,Environment)
+(Software,Computing) ~ (Unit,Environment)
+'Software can be seen as a logical unit of computing. It is a computing unit designed for a specific purpose to interact with data.'
+Creation < (Design,Production)
+Programming < (Coding,Building){Software}
 
 (Programming Problems,Syntax Tables){Programming Language}
 
@@ -63,10 +80,11 @@ Number ~ Representation System { Quantity }
 Number < (Algarisms,Basis) 
 Number System ~ Grouping and Repetition { Algarisms System } 
 ? How numbers are represented through algarisms 
-? What each algarism level represents 
-? Algarisms ~ Comparison { Order }
-? What is the decimal system 
-? What is the binary system 
+?? What each algarism level represents 
+?? Algarisms ~ Comparison { Order }
+?? What is the decimal system 
+?? What is the binary system 
+?? What is an arbitrary algarism system 
 (Reasonings,Inferences){Symbolic Abstract Framework}
 (Calculation,Operator Tables){Arithmetics}
 Arithmetic < (Calculation,Operator Tables){Number Base System}
@@ -84,17 +102,29 @@ Division ~ Grouping
 ?? How to calculate integer division between a number and a single digit number on any basis 
 ?? How to calculate integer division between a number and two digit number on any basis 
 ?? How to calculate integer division between two numbers on any basis 
-? What is a fraction, ratio, rule of three 
-? What is arithmetic precedence and arithmetic expressions
-? What is integer numbers and how to perform calculations based on naturals
-? What is rational numbers and how to perform arithmetic calculations
+?? What is a fraction, percentage, ratios, proportions, rule of three
+'Script ~ Ordered operations to be performed'
+Arithmetic Expression ~ Script { Arithmetics }
+? What is an arithmetic expression 
+?? What is arithmetic precedence 
+??? How to denote precedence explicitly 
+??? What is the convention about precedence of arithmetic operators 
+Natural>Integer>Rational>Real
+? What is integer number and how to perform calculations based on naturals
+? What is rational number and how to perform arithmetic calculations
+? How to prove the existence of irrationals 
+? How to understand the representation of on any algarism basis of any real number 
 
 (Programming,Syntax Tables){Programming Language}
 ? How to use python to perform arithmetic calculations 
 ?? How to represent a number on arbitrary arithmetic basis 
 ?? How to convert numbers from arbitrary arithmetic basis 
 
-(Know how to > Automate) { Mathematical Knowledge }
+[ Mathematical Knowledge ] { Epistemology }
+(Know how to > Know how to automate) { Mathematical Knowledge }
+? How to acquire mathematical knowledge 
+?? Is possible to automate without knowing how to do 
+??? Is possible to verify the correctness of automation without knowing 
 
 // ===========================================================================================================
 // Religion 

@@ -1,29 +1,25 @@
 /// BEGIN 
 
-... todo 
-
-{ // Arithmetics { Basic Mathmatics }
-    
-Socratic Dialetics [ Arithmetics ] { Mathematics }
+[ Arithmetics ] { Mathematics }
 Number ~ Representation System { Quantity }
 ? What is a number 
 ?? Is possible to name all quantities without a system 
 Number < (Algarisms,Basis) 
 Number System ~ Grouping and Repetition { Algarisms System } 
 ? How numbers are represented through algarisms 
-? What each algarism level represents 
-? Algarisms ~ Comparison { Order }
-? What is the decimal system 
-? What is the binary system 
-'Lets suppose that there was no operation on numbers, no calculation. A person take notes of his small business, so each time he earn it, he takes a note using +n on his ledger, with n the gained gold coins, each time he needs to ressuply he takes some gold coins from it and take note using -m of m gold coins needed. After a long iteration, he wants to know if his business is growing, shrinking, or is stabilized. Each month there are enough notes to be impossible to know for sure if its growing, shrinking or stabilized, so how can he compare each month without calculating the exact quantity based on his notes? Knowing how to calculate the exact quantity based on his notes would help him compare his earnings?'
-Dialectical Basis of Mathematics := (Calculation,Tables/Properties/Theorems){Symbolic Representation}
-(Calculation,Tables/Properties/Theorems) ~ (Formal Reasoning, Memorization) 
+?? What each algarism level represents 
+?? Algarisms ~ Comparison { Order }
+?? What is the decimal system 
+?? What is the binary system 
+?? What is an arbitrary algarism system 
+(Reasonings,Inferences){Symbolic Abstract Framework}
+(Calculation,Operator Tables){Arithmetics}
 Arithmetic < (Calculation,Operator Tables){Number Base System}
 ? What is sum and how to calculate sum on any basis 
 ? What is subtraction and how to calculate subtraction on any basis 
 Multiplication ~ Grouping 
 ? What is multiplication 
-?? How to calculate multiplication between a number and a unit power on any basis 
+?? How to calculate multiplication between a number and a unit power (1,10,100,1000,...) on any basis 
 ?? How to calculate multiplication between a number and a single digit number on any basis 
 ?? How to calculate multiplication between two numbers on any basis 
 Division ~ Grouping 
@@ -33,111 +29,22 @@ Division ~ Grouping
 ?? How to calculate integer division between a number and a single digit number on any basis 
 ?? How to calculate integer division between a number and two digit number on any basis 
 ?? How to calculate integer division between two numbers on any basis 
-    
-Socratic Dialetics [ Arithmetic ] { Mathmatics }
-? What is arithmetic 
-?? What is the natural number system 
-??? What is the decimal representation 
-???? Is possible to name the numbers without a representation system 
-???? What is an algarism
-???? How to understand a number quantity from decimal representation algarisms 
-???? What is an arithmetic operator and an arithmetic calculation 
-???? How the decimal basis helps to perform calculation 
-???? Is possible to calculate without a basis (number representation system) 
-???? What are sum and subtraction operations 
-????? Traditional techiques to calculate sum and subtraction on decimal system 
-????? How to calculate sum and subtraction on calculator 
-????? How to calculate sum and subtraction on python
-'Calculations should be performed manually and the result is compared with calculator or python'
->>>>> Give the decimal sum table and some exercises 
-???? What is multiplication operation 
-????? Traditional techiques to calculate multiplication 
-????? How to calculate sum and subtraction on calculator 
-????? How to calculate sum and subtraction on python 
-'Calculations should be performed manually and the result is compared with calculator or python'
->>>>> Give the decimal multiplication table and some exercises 
-???? What is power operation 
-????? How to represent natural numbers on any numerical basis as a sum of powers
-???? What are root operation 
-???? What is a fraction/ratio 
-????? What is the rule of three 
-????? What is a division operation 
-?????? Traditional techiques to calculate integer division 
-?????? How to calculate sum and subtraction on calculator 
-?????? How to calculate sum and subtraction on python 
-'Calculations should be performed manually and the result is compared with calculator or python'
->>>>>> Give some exercises 
-???? Arithmetic Precedence and Arithmetic Expressions 
-???? What is the connection between operation table and calculation for a numerical representation 
-??? What are binary basis representation of numbers 
->>> Give sum and multiplication tables for binary basis and some exercises
-??? What are generic basis representation of numbers 
-'Calculations should be performed manually and the result is compared with calculator or python'
->>> Give sum and multiplication tables for hexadecimal basis and some exercises
-?? What is the integer numbers 
-??? How to perform operations on decimal system 
-?? What is rational numbers 
-??? How to represent rational numbers on decimal system 
-??? How to perform operations on decimal system 
-?? What is irrational numbers 
-??? How to represent irrational numbers on decimal system 
-??? How to easily prove the existence of irrational numbers 
-?? What is the real numbers 
-??? How to represent real numbers on decimal system 
-??? How to perform operations on decimal system 
-?? What is the complex numbers 
-??? How to represent complex numbers 
-??? How to easily prove the existence of pure complex numbers 
-??? How to perform operations on decimal system 
-? What is the limitation of arithmetic on computing 
-?? Is possible to represent all integers on a computer machine 
-?? Is possible to represent all rationals on a computer machine 
-?? Is possible to represent irrational on a computer machine 
-?? What is the floating point system 
-?? What is float and double on computer science 
-.
-// binary sum table 
-0+0 = 0
-0+1 = 1
-1+0 = 1
-1+1 = 10
-// binary multiplication table 
-0*0 = 0
-0*1 = 0
-1*0 = 0
-1*1 = 1
-X*1ZZZ...Z = XZZZ...Z
-// binary arithmetic exercises 
-1010111+11000110 = ?
-110101101*1000 = ?
-101101*1011 = ?
-110101-1101 = ?
-110101/11 = ?
-? How to write binary literal on python 
-? How to convert binary to decimal and decimal to binary in python 
-? How to perform sum on binary arithmetic 
-? How to perform multiplication on binary arithmetic 
-? How to perform multiplication with pure powers on any representation 1,10,100 ... 
-.
-// Solution Example 
-101101*1011 = 101101*1011 = 101.101.000 + 001.011.010 + 000.101.101 = ?
--
-101.101.000
-001.011.010
-000.101.101
--
-102.213.111
--
-110.213.111
-111.013.111
-111.021.111
-111.101.111
--
-101101*1011 = 111101111
-// Check with python, just copy the line below and see the output 
-0b101101*0b1011 == 0b111101111 # python 
+?? What is a fraction, percentage, ratios, proportions, rule of three
+'Script ~ Ordered operations to be performed'
+Arithmetic Expression ~ Script { Arithmetics }
+? What is an arithmetic expression 
+?? What is arithmetic precedence 
+??? How to denote precedence explicitly 
+??? What is the convention about precedence of arithmetic operators 
+Natural>Integer>Rational>Real
+? What is integer number and how to perform calculations based on naturals
+? What is rational number and how to perform arithmetic calculations
+? How to prove the existence of irrationals 
+? How to understand the representation of on any algarism basis of any real number 
 
-}
+// ========================================================================================================
+// todo/revision
+
 { // Programming and Computation Concepts { Basic Computation }
 
 Socratic Dialetics [ Programming ]
@@ -177,7 +84,6 @@ Programming Language < (Syntax,Semantics)
 ?? What is a repetition control structure 
 
 }
-
 
 (Command>Script>Automation) ~ (Statements>Conditionals>Loops)
 
