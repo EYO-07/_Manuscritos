@@ -1,6 +1,23 @@
 /// BEGIN 
 
-[ Arithmetics ] { Mathematics }
+/** [ Practical Knowledge ] { Epistemology }
+Knowledge < ( To Use X To Obtain ) { Service/Product }
+To Use > To Obtain ( To Buy > To Produce )
+Knowledge To Use ~ Knowledge To Perform Predictions { Functional Abstraction }
+Knowledge To Produce ~ On demand necessary knowledge 
+'The knowledge to use is essential and the most basic and abstracted form of practical knowledge of a thing. The knowledge to obtain it can be the knowledge to buy or delegate production or the knowledge to produce by yourself. Every knowledge is abstracted on some form, but the knowledge to produce requires a deeper understanding of the steps and the nature of object to be produced.'
+Knowledge < ( To Perform X To Delegate ) { Service }
+Production ~ Service 
+? If someone doesnt know how to perform while delegating a service, how can he be sure that the service was done right 
+?? Delegate the verification by third-party 
+?? Delegate the confidence by reputation 
+Verification ~ Demonstration ~ Proof 
+'The endpoint of all demonstrations ends on the demonstration to a human consciousness. Even on a fully automated verification system, that system itself was demonstrated to work in order to justify the reputation gained.'
+? Can an A.I./LLM be considered a fully automated verification system 
+?? It is possible to demonstrate to a human that it works on every case 
+??? Is possible to a neural network to never fail 
+*/
+/** [ Arithmetics ] { Mathematics }
 Number ~ Representation System { Quantity }
 ? What is a number 
 ?? Is possible to name all quantities without a system 
@@ -41,6 +58,7 @@ Natural>Integer>Rational>Real
 ? What is rational number and how to perform arithmetic calculations
 ? How to prove the existence of irrationals 
 ? How to understand the representation of on any algarism basis of any real number 
+*/
 
 // ========================================================================================================
 // todo/revision
