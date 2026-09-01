@@ -131,9 +131,22 @@ Automate ~ Delegate { Machine/Computer/Calculators }
 ???? Is possible to deletage the verification to a trusted party 
 ? Is effective to everyone knows every detail of how to perform of every part of anything 
 
+:= Main % Support // Natural Order Dialectical Basis 
+:= A ~ B // Relation 
+:= A ~ B { C } // Relation inside context 
+:= Object/Relation { Context } // Context Operator
+:= Object/Concept < Dialectical Projection * Dialectical Basis // Projection of a Concept/Object 
+:= A X B // Contraposition or Contrast Dialectical Basis (Hegelian Diadic Basis)
+.
 [ Practical Knowledge ] { Epistemology }
-Knowledge < ( To Use X To Obtain ) { Service/Product }
-To Use > To Obtain ( To Buy > To Produce )
+Efficiency X Depth 
+Efficiency % Depth { Human Limitation }
+'Knowledge should be primarly efficient to understand and solve human problems and should go deep enough only to support finding the correct or better solutions. The knowledge depth is on demand or by curiosity while the knowledge efficiency is an always desirable product for human beings.'
+? What is the concept of abstraction on epistemology 
+? How abstraction fits the natural order compatible by the limitation of human existence 
+? How to know if the knowledge is deep enough 
+Knowledge < ( To Use X To Obtain ){Service/Product} * (Efficiency X Depth)
+To Use > To Obtain(To Buy > To Produce)
 Knowledge To Use ~ Knowledge To Perform Predictions { Functional Abstraction }
 Knowledge To Produce ~ On demand necessary knowledge 
 'The knowledge to use is essential and the most basic and abstracted form of practical knowledge of a thing. The knowledge to obtain it can be the knowledge to buy or delegate production or the knowledge to produce by yourself. Every knowledge is abstracted on some form, but the knowledge to produce requires a deeper understanding of the steps and the nature of object to be produced.'
@@ -147,19 +160,41 @@ Verification ~ Demonstration ~ Proof
 ? Can an A.I./LLM be considered a fully automated verification system 
 ?? It is possible to demonstrate to a human that it works on every case 
 ??? Is possible to a neural network to never fail 
+Knowledge of Usefulness X Knowledge to use 
+? How to know if something is useful or not it you dont know how to use it 
 
 ? Verification ~ proof that is correct 
 ?? When you prove something, you demonstrate to someone, proving is human
 
 [ Mathematical Knowledge ] { Epistemology }
+Knowledge < ( To Perform X To Delegate ) { Service }
+To Delegate < ( To other X Automation )
 (Know how to perform > Know how to automate) { Mathematical Knowledge }
 ? How to acquire mathematical knowledge 
 ?? Is possible to automate without knowing how to do 
-??? Risks to automate without knowing how to do 
-???? Is possible to verify the correctness of automation without knowing how to do 
+::: Knowing the problem and delegating the best solution(product) to another
+??? What is the concept of black-box 
+?? Is possible to verify the correctness of automation without knowing how to do 
+::: Independent redundant verification methods
+::: Invariants, consequences which a solution may satisfy
+??? Finding a Solution X Verification 
+??? What is the oracle problem 
 ?? How to acquire the knowledge to perform 
-?? How to acquire the knowledge to automate using machines or technology 
-    
+??? How much one should engage on manual mathematical calculations to gain the knowledge to perform 
+?? How to acquire the knowledge to automate using machines/technology 
+Knowledge < ( To Use X To Obtain ) { Service/Product }
+? What are the products of mathematics
+:: Numbers, Quantities, Measures, Relations, Equations, Graphs, Probabilities, Mathematical Models, Simulations, Theorems, Proofs, Axiomatic Theories, ...
+??? Its clear the boundary between the knowledge of how to use and how to obtain of mathematical entities 
+???? Is effective to one only know how to use a mathematical entity without knowing how obtain it 
+Mathematics X Computation 
+? Can the computation solves/automates every mathematical problem 
+?? Can the computation represents all numbers 
+??? Can the computation represent a irrational 
+??? Can the computation solves problems about infinity 
+??? What is the floating-point system 
+?? Can theoretical problems (theorem proof) be effectively automated 
+
 
 // ===========================================================================================================
 // Religion 
