@@ -20,6 +20,8 @@
 [ Knowledge ] { Epistemology }
 Object < (Self,Relation) 
 ? What is knowledge
+?? Know X Belief 
+?? Know the truth X Lucky Guess 
 ?? What is a priori knowledge 
 ?? What is a posteriori knowledge
 'A priori knowledge is a knowledge that is already there, it dont comes from observation, but by the inner nature of consciousness.'
