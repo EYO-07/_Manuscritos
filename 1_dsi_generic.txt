@@ -49,7 +49,30 @@ Storage || Variables || Declaration | Assignment
 Processing || Expression Evaluation | Function Calls 
 Abstractions || Function Declaration | Object Declaration 
 
-
+[ Data Analysis ] { Python, Jupyter Scientific Package }
+? How to install jupyter and scientific packages 
+? How to use jupyter notebook and run python scripts on it 
+Computing < (Storage,Processing,Visualization){Data}
+? What is a variable
+?? What is a dependent variable and independent variable 
+?? Functions and dependent variables 
+?? What is a relation between variables 
+??? How to visualize relations between variables 
+???? How to plot a simple graph
+? What is a random variable 
+?? How to visualize random variables 
+??? How to plot a histogram 
+??? How to plot a distribution of the variable 
+?? What is mean, median and variance
+? What is a interpolation 
+?? How to perform data interpolation
+? What is curve-fitting 
+?? How to perform curve-fitting 
+? What is model parameter optimization 
+?? How to perform parameter optimization 
+? How to store data 
+?? Data format available
+? How to retrieve data 
 
 [ Programming ] { Computing }
 Programming Language < (Syntax,Semantics)
