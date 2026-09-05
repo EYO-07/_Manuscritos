@@ -6,7 +6,7 @@
 
 // ===========================================================================================================
 // Philosophy 
-
+{
 := Main % Support // Natural Order Dialectical Basis 
 
 := A X B // Contraposition or Contrast Dialectical Basis (Hegelian Diadic Basis)
@@ -71,10 +71,10 @@ Priori X Posteriori { Knowledge }
 
 Justification < (Priori,Posteriori) * (Reason,Reality) * (Analysis,Experiment)
 
-
+}
 // ===========================================================================================================
 // Programming/Computing
-
+{
 Computing < (Data Storage, Data Processing, Data Visualization)
 
 Computer % LLM % Programming 
@@ -117,21 +117,44 @@ Storage || Variables || Declaration | Assignment
 Processing || Expression Evaluation | Function Calls 
 Abstractions || Function Declaration | Object Declaration 
 
-[ Data Analysis ] { Python, Jupyter Scientific Package }
+[ Data Analysis ] { Jupyter Scientific Package }
+? What is jupyter 
+?? What is python 
+?? What can jupyter be used for 
 ? How to install jupyter and scientific packages 
 ? How to use jupyter notebook and run python scripts on it 
 Computing < (Storage,Processing,Visualization){Data}
 ? What is a variable
 ?? What is a dependent variable and independent variable 
 ?? Functions and dependent variables 
+??? How to create a function in python/jupyter 
+??? How to use a function 
+??? How to use a function method 
 ?? What is a relation between variables 
 ??? How to visualize relations between variables 
 ???? How to plot a simple graph
+????? How to create simple X,Y relational data with noise in jupyter 
+?????? How to import packages in python 
+?????? How to create variables in python 
+Data < Arrays * Numpy 
+? What is numpy 
+?? What is a python package 
+?? How to import a python package 
+??? How to import a python package with alias
+?? How to use a python package 
+??? How to use a method from a python package 
+? How to create a evenly spaced array in numpy 
+?? What is an array/vector 
+? How to perform vector arithmetic in numpy 
+?? How to perform addition, multiplication, division, power or any other operation vectorwise 
+
+
 ? What is a random variable 
 ?? How to visualize random variables 
 ??? How to plot a histogram 
 ??? How to plot a distribution of the variable 
 ?? What is mean, median and variance
+
 ? What is a interpolation 
 ?? How to perform data interpolation
 ? What is curve-fitting 
@@ -160,10 +183,10 @@ Creation < (Design,Production)
 Programming < (Coding,Building){Software}
 
 (Programming Problems,Syntax Tables){Programming Language}
-
+}
 // ===========================================================================================================
 // Mathematics 
-
+{
 Socratic Dialetics [ Arithmetics ] { Mathematics }
 Number ~ Representation System { Quantity }
 ? What is a number 
@@ -285,10 +308,10 @@ Mathematics X Computation
 ??? Can the computation solves problems about infinity 
 ??? What is the floating-point system 
 ?? Can theoretical problems (theorem proof) be effectively automated 
-
+}
 // ===========================================================================================================
-// Religion 
-
+// Religion / Morality
+{
 Culture < (Society,Beliefs)
 Society ~ Beliefs, Religion, Politics/Economics, Ethnicity
 Beliefs ~ Literature, Religion, Education, Academy
@@ -383,9 +406,43 @@ Subject < (Definition,History,Relation) { Historical Subject }
 ? Umbanda ~ Espiritismo 
 */
 
+[ Justice ] 
+Justice ~ Judge ~ Intellect
+Justice ~ (Intention,Awareness,Act) x (Ofender,Victim,Judge)
+'Justice depends on the truth about the judgment, or the awareness of the judge.'
+Ignorant Person := 'one that dont preserve intellectual virtues and so cant be fully aware of things'
+? Can an ignorant person be a good judge 
+Justice ~ Balance ~ Equilibrium
+1. Positive Justice := 'justice that favors the criminal'
+2. Negative Justice := 'justice that punishes the criminal'
+'Either a positive of negative justice is considered bad on misjudgement, because you cant give a favor to one without denying justice for another, and if you punishes an innocent, then that act is bad.'
+? Can justice define good and evil 
+1. Lawful Path := 'justice, specially for the evil'
+2. Chaotic Path := 'no rules'
+3. Gray Path := 'justice for good persons and no rules for the evil'
+:: Lawful person seems imediately good, Chaotic person seems imediately evil, Gray person seems that his goodness is circunstancial.
+'Even on lawful path, one cant be fully aware, so being lawful cant prevent being good all the time, yet is more likely that a lawful person be good if he preserves intellectual virtues or not engage on judgement directly.'
+'The gray path being good or evil is strongly dependent on his intellectual virtues and the truth about his judgements.'
+? When someone following the gray path can be considered good and can be considered evil 
+
+Good(A) := 'considered good by judgement and awareness of A'
+Good(?) := 'allegedly good, with a possibility of not being good'
+
+
+?? If someone allegedly good, deny justice to an evil person, can he be considered good 
+??? If someone deny justice, using the argument that the one affected are not good, can he be considered good 
+:::: The goodness of that person will depend on how right and certain he is about the judgement of evil, so the questions shifts toward his intellectual values, how much he know, how sincere is his judgement, his point of view and so on. 
+???? Can an ignorant person, one who dont cares or preserves intellectual virtues, on denial of justice to an allegedly evil, be considered a good person 
+????? Can an ignorant person, one who dont cares or preserves intellectual virtues, on denial of justice to an allegedly evil, but later be proved that this person was not evil, be considered a good person 
+???? Can an ignorant person, one who dont cares or preserves intellectual virtues, on denial of justice to an certain evil, be considered a good person 
+????? Can someone be considered good, on an extreme act against another, in a situation which he cant be fully aware of his evilness by his own ignorance, be considered good, even if that another person was truly evil 
+
+
+} 
 // ===========================================================================================================
 // Politics
-
+{
+    
 [ Cassação Parlamentar ] { Brasil }
 ? Quais os motivos podem levar a cassação de um parlamentar no Brasil 
 ?? Artigo da constituição sobre cassação 
@@ -399,7 +456,10 @@ Subject < (Definition,History,Relation) { Historical Subject }
 ?? Como funciona o processo de cassação para presidente do senado 
 ??? Como se inicia, se admite e se prossegue o rito de cassação de presidente do senado 
 
+[ Cármen Lúcia ] { Brasil }
+? Qual foi a decisão polêmica em favor da censura feita por Cármen Lúcia 
 
+}
 // ===========================================================================================================
 // ... 
 
