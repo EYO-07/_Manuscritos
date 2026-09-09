@@ -1,0 +1,49 @@
+/// BEGIN 
+
+:= A(~X~)B // X is between the concepts of A and B
+.
+[ Virtues ]
+Virtue { Values }
+Virtue ~ Behaviour ~ Action
+Excess(~Virtue~)Deficiency { Aristotle }
+? What is the definition of virtue 
+?? Virtue X Vice 
+? Can virtue be defined as a guidance to the moral value of behaviour 
+? What kinds of virtues exists 
+?? What are cardinal virtues 
+::: Prudence, Justice, Fortitude, Temperance
+?? What are aristotles 12 moral virtues 
+??? What is virtue and vice on aristotle perspective 
+??? What are the moral virtues 
+??? What are the intellectual virtues 
+??? What are theleological virtues 
+?? What are the intellectual virtues by aristotle
+
+[ Justice ] 
+Justice ~ Judge ~ Intellect
+Justice ~ (Intention,Awareness,Act) x (Ofender,Victim,Judge)
+'Justice depends on the truth about the judgment, or the awareness of the judge.'
+Ignorant Person := 'one that dont preserve intellectual virtues and so cant be fully aware of things'
+? Can an ignorant person be a good judge 
+Justice ~ Balance ~ Equilibrium
+1. Positive Justice := 'justice that favors the criminal'
+2. Negative Justice := 'justice that punishes the criminal'
+'Either a positive of negative justice is considered bad on misjudgement, because you cant give a favor to one without denying justice for another, and if you punishes an innocent, then that act is bad.'
+? Can justice define good and evil 
+1. Lawful Path := 'justice, specially for the evil'
+2. Chaotic Path := 'no rules'
+3. Gray Path := 'justice for good persons and no rules for the evil'
+:: Lawful person seems imediately good, Chaotic person seems imediately evil, Gray person seems that his goodness is circunstancial.
+'Even on lawful path, one cant be fully aware, so being lawful cant prevent being good all the time, yet is more likely that a lawful person be good if he preserves intellectual virtues or not engage on judgement directly.'
+Gray Path ~ (Intellectual Virtues,Awareness,Truth)
+'The gray path being good or evil is strongly dependent on his intellectual virtues, his awareness of the situation and the truth about his judgements.'
+? When, someone following the gray path, can be considered good and can be considered evil 
+?? A gray person, being ignorant, can be considered good 
+?? A gray person, aware of incapacity to judge in a specific case, even following all intellectual virtues except on this case, if decides to do intentional harm/prejudice/injustice to a person which he judges as evil, can be considered good 
+1. Gray/Evil Strategy := 'Good or justice only to allies or if advantageous. Injustice to enemies.'
+2. Neutral Lawful Strategy := 'Justice for everyone.'
+3. Good Lawful Strategy := 'Good to whom is good and to whom is fair. Justice for the evil.'
+? Neutral Lawful X Gray/Evil 
+? Good Lawful X Gray/Evil 
+
+/// END 

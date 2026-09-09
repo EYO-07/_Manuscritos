@@ -16,63 +16,24 @@
 := Object/Relation { Context } // Context Operator
 := Object/Concept < Dialectical Projection * Dialectical Basis // Projection of a Concept/Object 
 .
-[ Knowledge ] { Epistemology }
-(Definition,Relation)
-? What is knowledge 
-Knowledge X Fiction/Fantasy 
-Knowledge ~ Reality ~ Truth
-Truth X Belief 
-Belief X Justification 
-? How solid is a belief without a justification 
-?? How solid is a belief without being consistent through a system 
-?? A justification is always a relation inside a system 
-? How a justification can disguise a false statement as true 
-Knowledge < (Belief,Justification,Truth) * (Self,Cognition,Reality)
-Belief>Justification>Truth
-'Justification is central to the concept of knowledge, because the truth itself is skeptically intangible, while sound justification across an established accepted collection of beliefs is a pragmatical alternative. How we accept a belief as true, even if not? By a sound justification.'
-? What is JTB
-Justification < (Priori,Posteriori) * (Reason,Reality)
-? What is a priori knowledge 
-? What is a posteriori knowledge 
-? Where is the source of all knowledge
-?? What authors are against the source as being empirical 
-??? Can a knowledge be purely empirical, without any degree of cognitive abstraction 
-?? What authors are against that exist knowledge from the structure and inner nature of consciousness 
-Accessible Knowledge := 'Knowledge that one is aware of their content and truth value'
-Information Value := 'How the accessible predictions changes before and after his assumption as true'
-Analytical X Synthetic { Knowledge }
-? What is an analytical and synthetic knowledge 
-?? When some authors says that all prioristic knowledge is analytical, is the same as they has no information value 
-? What is synthetic priori knowledge 
-?? A knowledge accessible only through multisteps of logical reasoning can be considered to have information value 
-?? A knowledge accessible only through multisteps of logical reasoning can be considered synthetic 
-
-Priori Knowledge 
-
-Metaphysical Truth : 'A truth that is independent of subject and comes from the nature of reality.'
-Kantian Priori : 'A truth that human consciousness shares, which comes from the nature of consciousness itself.'
-
-2. 'A truth that is already present on the consciousness, and comes from the his inner nature.'
-3. 'A knowledge that is achieved by cognitive abstraction from experiences or other memories.'
-
-5. 'A knowledge that we are fully aware, without the necessity for experimental validation.'
-
-Priori X Posteriori { Knowledge }
-? What is a priori knowledge 
-?? Priori knowledge ~ justification 
-? What is a posteriori knowledge 
-?? Posteriori knowledge ~ justification 
-
-
 
 ?? Synthetic knowledge ~ Information value 
-?? 
 
+$Socratic || & || ++Socratic | Readings 
+$Socratic || & || ++Socratic | (Conversation % Readings)
+$Socratic || & || ++Socratic | (LLM % Readings)
 
 Justification < (Priori,Posteriori) * (Reason,Reality) * (Analysis,Experiment)
 
 [ Semiotics ] { Philosophy }
 ? What is semiotics 
+(Sign,Object,Interpretant)
+Sign < (Language Syntax, Language Semantics) * (Form,Content)
+Denotation X Connotation
+? What is unlimited semiosis 
+?? Can unlimited semiosis be considered an artifact of the language itself 
+
+A(~X~)B
 
 }
 // ===========================================================================================================
