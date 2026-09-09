@@ -9,7 +9,7 @@
 Language ~ Informal // Ordinary verbal language 
 Dialetics ~ Semiformal // Symbols and Operators mixed with concepts and verbal language 
 Logic ~ Formal // Statements mapped to Symbols and Operators 
-? 'General Philosophy'(Language) % 'Analytical Philosophy'(Dialetics % Logic) { Philosophy }
+? 'General Philosophy'(Language) % 'Analytical Philosophy'(Dialectics % Logic) { Philosophy }
 :: 'General Philosophy'(Language) ~ Others
 :: 'Analytical Philosophy'(Dialetics % Logic) ~ Adept 
 :: (Others % Adept) ~ (Others % Self) ~ (Reality % Mind) ~ Natural Order 
@@ -22,7 +22,7 @@ Logic ~ Deductive ~ Deterministic
 :: Language ~ Informal ~ Mind ~ Ideas ~ Chaos 
 .. 
 .
-Socratic Dialetics [ Analytical School ] { Philosophy }
+Socratic Dialectics [ Analytical School ] { Philosophy }
 ? What is a school of thought in general philosophy 
 !! Exemplify some main schools of thoughts 
 ?? What are the main branches of philosophy 
@@ -48,5 +48,20 @@ Socratic Dialetics [ Analytical School ] { Philosophy }
 .
 'One of limitations of analytical philosophy is that formal rigorous logic cant be applied easily on any topic, in trialectical analytical philosophy the gap between formalism and informal language is fullfilled by dialectical modelling, which uses semiformalism along with a more weak but flexible inductive reasoning. Nevertheless, as any inductive reasoning, it could lead to artifacts, implicit assumptions based on the method, those assumptions are merely justified, but often not proved, due to the nature of the problem.'
 'The socratic dialectics is the form of the understanding in trialectical analytical view, its not merely a dialogue, but an recursive structure to unfold questions important or necessary for deep understanding. So the socratic dialectics, along hegellian and other types of dialectics belongs to dialectical method, isnt something apart is one of the tools of analytical reasoning along with logic and the informal language.'
+.
+(Premises,Reasonings,Conclusions)
+(Principalist,Analytical,Consequentialist) ~ (Premises,Reasonings,Conclusions)
+Principalist ~ 'Emphasis on principles, premises.'
+Consequentialist ~ 'Emphasis on consequences, effects.'
+Analytical ~ 'Emphasis on the inferential process, on the connection between premises and conclusions, on the path more than on the destination.'
+(Analytical % Consequentialist) % Principalist 
+'The trialectical analytical school consider the triad and the natural order on those philosophical postures. The main posture is the analytical posture, which is the guide to intellectual responsability, the second posture is the posture of evidence, rejecting inconsistencies coming from reality, while the third is the least posture, only for ideas that are well established. Finding the guiding undeniable principles is one of the goals of intellect, so in order to find the true principles, one should put the principalism on least position, its not about importance, but its about the prudence.'
+.
+'What is the Trialectical Analytical School? Is an Analytical School defined as a projection of itself on to dialectical models, with strong emphasis on triadic structures which is called trialectics.'
+1. Importance ~ (Logic % Dialetics) % Language // An adept should give more importance on logical analytical demonstration, followed by natural inductive reasonings and informal discourses. The soundness should come from logic, followed by dialectics and then from informal statements.
+2. Postures ~ (Analytical % Consequentialist) % Principalist // The postures to performing critical analysis is primarily Analytical, followed by consequentialist and for the later the principalism.
+3. Investigation ~ (Dialetics % Language) % Logic // An adept should investigate creating dialectical reasonings, exposing their thoughts on natural language, and if possible, try to formalize on logical framework.
+(Importance,Investigation,Postures) ~ (Principles,Tools,Analysis) ~ (Self,Communication,Other)
+'Its necessary to point out that you cant perform analysis without a logical framework, as logic itself is a good candidate for undeniable principles, one should understand that choosing a minimal logical framework dont denies the natural order, it is actually a expression of it, as it is the minimum necessary set of principles one should assume.'
 
 /// END 

@@ -71,6 +71,9 @@ Priori X Posteriori { Knowledge }
 
 Justification < (Priori,Posteriori) * (Reason,Reality) * (Analysis,Experiment)
 
+[ Semiotics ] { Philosophy }
+? What is semiotics 
+
 }
 // ===========================================================================================================
 // Programming/Computing
@@ -406,24 +409,10 @@ Subject < (Definition,History,Relation) { Historical Subject }
 ? Umbanda ~ Espiritismo 
 */
 
-[ Justice ] 
-Justice ~ Judge ~ Intellect
-Justice ~ (Intention,Awareness,Act) x (Ofender,Victim,Judge)
-'Justice depends on the truth about the judgment, or the awareness of the judge.'
-Ignorant Person := 'one that dont preserve intellectual virtues and so cant be fully aware of things'
-? Can an ignorant person be a good judge 
-Justice ~ Balance ~ Equilibrium
-1. Positive Justice := 'justice that favors the criminal'
-2. Negative Justice := 'justice that punishes the criminal'
-'Either a positive of negative justice is considered bad on misjudgement, because you cant give a favor to one without denying justice for another, and if you punishes an innocent, then that act is bad.'
-? Can justice define good and evil 
-1. Lawful Path := 'justice, specially for the evil'
-2. Chaotic Path := 'no rules'
-3. Gray Path := 'justice for good persons and no rules for the evil'
-:: Lawful person seems imediately good, Chaotic person seems imediately evil, Gray person seems that his goodness is circunstancial.
-'Even on lawful path, one cant be fully aware, so being lawful cant prevent being good all the time, yet is more likely that a lawful person be good if he preserves intellectual virtues or not engage on judgement directly.'
-'The gray path being good or evil is strongly dependent on his intellectual virtues and the truth about his judgements.'
-? When someone following the gray path can be considered good and can be considered evil 
+[ Justice ] { Tomas de Aquinas }
+? What is justice from Aquinas perspective 
+   
+(Evil,Good)
 
 Good(A) := 'considered good by judgement and awareness of A'
 Good(?) := 'allegedly good, with a possibility of not being good'
@@ -436,11 +425,20 @@ Good(?) := 'allegedly good, with a possibility of not being good'
 ????? Can an ignorant person, one who dont cares or preserves intellectual virtues, on denial of justice to an allegedly evil, but later be proved that this person was not evil, be considered a good person 
 ???? Can an ignorant person, one who dont cares or preserves intellectual virtues, on denial of justice to an certain evil, be considered a good person 
 ????? Can someone be considered good, on an extreme act against another, in a situation which he cant be fully aware of his evilness by his own ignorance, be considered good, even if that another person was truly evil 
+    
+[ Demoniac Dissonance ]
+Demoniac Cognitive Dissonance : 'inversion of the cognitive ability to recognize good and evil.'
+'People affected by demoniac cognitive dissonance see goodness on the evil, and evilness on the good things, they flip their values on their minds, innocence becomes guilty, guilty becomes innocence, beauty becomes ugly and uglyness becomes beauty and so on.'
+Antichrist Horde Behaviour : 'is the phenomenon of the voluntarious protection of the evil, people affected by demoniac cognitive dissonance, at certain level of mental/spiritual corruption, will voluntarly protect an evil being at same extent of inverse value of this existence and the extension of inversion of his own mind. They will protect the Devil as a Christ, and harm Christ as a Devil.'
+
+[ Agnosticism ]
+? What is Agnosticism 
+?? Agnosticism X Atheism 
 
 
 } 
 // ===========================================================================================================
-// Politics
+// Politics / Ideology
 {
     
 [ Cassação Parlamentar ] { Brasil }
@@ -458,6 +456,40 @@ Good(?) := 'allegedly good, with a possibility of not being good'
 
 [ Cármen Lúcia ] { Brasil }
 ? Qual foi a decisão polêmica em favor da censura feita por Cármen Lúcia 
+
+[ Relator do STF ] { Justiça, Brasil }
+? Qual a função de relatoria de um juiz do supremo tribunal federal durante um processo de investigação da polícia federal 
+:: Supervisor
+:: Autorizar, Apreciar pedidos, Decidir sobre medidas cautelares
+? Quais sinais de abuso de um juiz relator 
+:: Direção da Investigação, Determinação de Diligências de Ofício
+
+[ Duguinismo ]
+? Quem foi Alexander Dugin 
+? O que é duguinismo 
+?? Quais as características desta corrente de pensamento 
+??? O que é neoeurasianismo
+??? O que é Quarta Teoria Política 
+???? O que faz ele se definir como quarta teoria política 
+??? O que é multipolaridade 
+??? O que é etnocentrismo 
+.
+(Indivíduo,Classe,Nação/Raça,Civilização) { Duguinismo }
+? O que são os pressupostos iluministas
+?? Progressismo
+?? Materialismo
+?? Universalismo 
+?? Reducionismo 
+?? Ateísmo
+?? Modernismo 
+
+[ Liberalismo ] { Ideologia }
+? Escola Austríaca 
+? Escola de Salamanca
+? Liberalismo Clássico 
+? Escola de Chicago 
+
+
 
 }
 // ===========================================================================================================
