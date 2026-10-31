@@ -4,7 +4,7 @@
 // ... it could be used to create curated socratics or dialectical inductive reasonings 
 // ... they are mainly threads of thoughts, eventually becoming something useful for learning 
 
-// ===========================================================================================================
+// ================================================================================================
 // Philosophy 
 {
 := Main % Support // Natural Order Dialectical Basis 
@@ -35,8 +35,28 @@ Denotation X Connotation
 
 A(~X~)B
 
+[ Aristotelian Virtues of Morality ]
+
+
+Generosity: Managing money and wealth well.
+Magnificence: Grace and appropriateness in large-scale giving or projects.
+Magnanimity: Proper pride and ambition regarding great honors.
+Proper Ambition: Balancing a healthy drive for achievement against undue vanity.
+
+Patience / Gentleness: Managing anger and temper appropriately.
+Truthfulness: Honesty in self-presentation and communication.
+
+Temperance: Mastering physical pleasures and appetites.
+Modesty: Healthy sensitivity to shame and social reputation.
+
+Wittiness / Eutrapelia: Tact, playfulness, and appropriate social humor.
+Friendliness: Warmth and agreeableness in daily social interactions.
+
+Courage: Mastering fear and confidence.
+Righteous Indignation: Feeling anger at unearned good fortune or injustice.
+
 }
-// ===========================================================================================================
+// ================================================================================================
 // Programming/Computing
 {
 Computing < (Data Storage, Data Processing, Data Visualization)
@@ -148,7 +168,7 @@ Programming < (Coding,Building){Software}
 
 (Programming Problems,Syntax Tables){Programming Language}
 }
-// ===========================================================================================================
+// ================================================================================================
 // Mathematics 
 {
 Socratic Dialetics [ Arithmetics ] { Mathematics }
@@ -273,7 +293,7 @@ Mathematics X Computation
 ??? What is the floating-point system 
 ?? Can theoretical problems (theorem proof) be effectively automated 
 }
-// ===========================================================================================================
+// ================================================================================================
 // Religion / Morality
 {
 Culture < (Society,Beliefs)
@@ -393,12 +413,13 @@ Demoniac Cognitive Dissonance : 'inversion of the cognitive ability to recognize
 Antichrist Horde Behaviour : 'is the phenomenon of the voluntarious protection of the evil, people affected by demoniac cognitive dissonance, at certain level of mental/spiritual corruption, will voluntarly protect an evil being at same extent of inverse value of this existence and the extension of inversion of his own mind. They will protect the Devil as a Christ, and harm Christ as a Devil.'
 
 [ Agnosticism ]
+Unknown X Unknownable 
 ? What is Agnosticism 
 ?? Agnosticism X Atheism 
-
+?? Agnosticism X Skepticism 
 
 } 
-// ===========================================================================================================
+// =================================================================================================
 // Politics / Ideology
 {
     
@@ -450,10 +471,42 @@ Antichrist Horde Behaviour : 'is the phenomenon of the voluntarious protection o
 ? Liberalismo Clássico 
 ? Escola de Chicago 
 
-
+[ Cargos Políticos ] { Brasil }
+? O que um prefeito pode fazer 
+? O que um governador pode fazer 
+? O que um presidente pode fazer 
+? O que um vereador pode fazer 
+? O que um deputado estadual pode fazer 
+? O que um deputado federal pode fazer 
+? O que um senador pode fazer 
+? Quais equívocos de atribuições são comuns
 
 }
-// ===========================================================================================================
+// =================================================================================================
+// Spirituality
+{
+
+[ Basic Spirituality ]    
+? What is spirit     
+    
+[ Endemoniados ]
+? O que seria um endemoniado 
+?? Segundo a literatura fictícia 
+?? Segundo a igreja católica 
+?? Segundo o espiritismo 
+?? Segundo outras religiões 
+? Quais as características de um endemoniado 
+? Endemoniado X Pessoa com problemas mentais 
+    
+[ Bad Spirituality ]
+1. Intrusive Thoughts (Daemons)
+2. Sleep Paralysis (Stealing of Spiritual Energy)
+3. Sleep sabotaging (Modulation of sleep to ruin the routine)
+4. Demoniac Dissonance (Mind/Consciousness corruption affecting ones behaviour)
+    
+}
+
+// =================================================================================================
 // ... 
 
 /// END 

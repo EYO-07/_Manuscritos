@@ -46,5 +46,21 @@ A X B // Contraposition or Contrast Dialectical Basis (Hegelian Diadic Basis)
 A > B > C ... // Sequence 
 (A,B,C,...) // Structure 
 A >> B // Emergence of B from A 
+.
+// Paragraph Snippet
+// ... fragments of texts intended to be used as building blocks for articles/texts
+"Short phrase." Paragraph with discussion in ordinary informal reasoning to explanain about the topic.
+. 
+// protoArticle 
+// ... are a structured combination of paragraph snippets to build an article/text/book 
+// ... intended to be used on editors with syntax highlight and structure folding
+// ... for instance, one can use editor with c/c++ lexers
+// Title : <Title>
+{ // 1. <Chapter Title>
+... Paragraph Snippets 
+}
+{ // 2. <Chapter Title>
+... Paragraph Snippets 
+}
 
 /// END
