@@ -1,11 +1,11 @@
 /// BEGIN  
 // Title : Natural Order Communism
 // ... this text was created using the same literacy skills used to create fictional stories. Nothing here is granted to be true or demonstrated. Also, the posture of writter comes from analytical school, defined as the philosophy that cares for the path between premises and conclusions and not premises and conclusions itself. The reader should consider it merely as an intellectual exercise, as the writter dont truly care for the conclusions.
-{ // 0. ... 
+{ // 1. Introduction 
 "What is Natural Order Communism?" Is the communist theory based on the Natural Order Dialectics instead of the Hegelian/Materialistic Dialectics. Natural Order Dialetics is a conceptual model characterized by an assymetric relationship between two entities associated with Order and Chaos. The Order assumes the main role, preserving what has been achieved, the Chaos have a supportive role, preventing the stagnation. The natural order dialetics is based on nature, the evolution which occurs on natural living beings, which is essentially conservative, but allowing a stable evolution through random mutation. 
     
 Main % Support 
-Order % Chaos     
+Order % Chaos 
     
 "Is Natural Order just another conservative movement in disguise?" The natural order theory dont dictates how much of chaos should be on the dialectical relationship. The humanity has a chaotic component stronger than other animals, we are more inventive, we create and change things more quickly than the natural evolution. Thats why humanity can shape the reality according to his will. What natural order says is, too much chaos will lead to instability and destruction, so we always put chaos as supportive role, the changes serves to evolution and not the contrary. How much of chaos should be on humanity? As much as pleased, but not at expense of self-destruction and civilization collapse. 
     
@@ -15,14 +15,39 @@ Order % Chaos
     
 Labor % Liberty 
     
-"What happens if the necessity of labor vanishes on a society?" When the necessity of labor ceases to exists the true natural order communist society will be achieved. In this scenario, the pursue of creation, inovation and ways to satisfies others desires will becomes the laboral activity. In this way, the labor conceptually never vanishes, but the natural/social necessity of labor will cease to exists.
+"What happens if the necessity of labor vanishes on a society?" When the necessity of labor ceases to exists the true natural order communist society will be achieved. In this scenario, the pursue of creation, inovation and ways to satisfies others desires will becomes the laboral activity. In this way, the labor conceptually never vanishes, but the natural/social necessity of labor will cease to exists. The labor is the goal and purpose of human beings, in sense that the humans would use his liberty to create things, to innovate, so even without the necessity of labor the labor will be pursued, because is in the human nature.
 
 "Catharsis. What happens to older communist theories?" All other communist theories are contaminated by inversion of natural order. Materialistic Dialetics is an inversion of Natural Order itself, its the inversion between Reality and Mind Contexts on the Hegelian Original Dialetics. The contrapositive dialetics is natural to human mind, as the conflict should be on ideas, the conflict should never be on reality on the context of human interactions. The conflict on reality is the regression of civilization. The materialistic dialetics emphatizes the dialectical conflict on reality, which could be justified if the opression is too strong so that the debate of ideas could not be possible. Yet, the evolution of civilization should place the conflict on ideas. The inversion of natural order becomes atractive for person with inverted values, which subsequently helped spreading this corruption. In order to understand what should be done, one should understand first the three archetypes based on natural order dialetics. To be short, with inverted theories you should just flip concepts and its usable. This flip is the exact procedure used to create this theory, we put the chaos and hegelian dialetics on his proper place. 
+}
+{ // 2. Digression through Dialetical Modelling Abstraction
+"What is Dialectics." Dialectics in the natural order communism and in the general dialetics has two meanings, which could at first be considered apart. First, the Socractic Dialectics, which is the pursue of knowledge through socractic dialogue. Second, the Dialetical Modelling, which is the creation of an abstract model, called dialectical basis, and projection of concepts on this basis to understand the concept. Hegelian Dialectics is a dialectical basis, Natural Order is another dialectical basis.
     
+"Dialectics and Communism." Dialectics concept is essential to understand the development from both communism and natural order communism, as both share the use, but uses different kind of dialetics to reach their conclusions.  
+    
+"Dialetical Modelling and Induction." The dialectical method is not deterministic, it not imperative, it cannot be used to perform deductive reasoning. Dialetical Modelling is a process to create a model. It is fundamentally an inductive process, which means that it could lead to artifacts, artificial insertions that could lead to misrepresentations of reality. Hegelian Dialectics put too much emphasis on conflict, and the conflict and tension becomes the leading tone of communism, yet the natural order dialetics put emphasis on complementarity.
+    
+"Tension on Natural Order Communism." The conflict exists on natural order communism, but not on the correct dialectical form, the conflict will always be present whenever natural order disposition is denied. There are two dispositions which is considered incorrect on natural order dialetics: when the main role denies the supportive role (Order(Main) % *), when the order denies chaos, leading to stagnation; and when the chaos usurps the main role (Chaos(Support) X Order(Main)), when the chaos leads destruction. We call the (Labor % Liberty) the projection of human purpose on natural order dialetics, so looking into (Labor % Liberty) we can identify two incorrect dispositions: (Labor % *) which means the exploration through the effective denial of individual liberty, and (Liberty X Labor) which is the conflict between usurpers and workers.
+    
+"Natural Order Dialectics X Hegelian Dialectics." Natural order dialetics consider the stagnation as an incorrect disposition, so in the correct natural order chaotic part should be present. The inner tension is the chaotic part, which is essential to Natural Order Dialectics and is responsible for the continuous development. In this way, the natural order dialetics dont denies the hegelian dialectical inner tensions, yet the model identify the tension (the places that could be improved) as inversion (conflict with supportive and main roles) and stagnation (the denial of supportive role).
+}
+{ // 3. Communist Statements on the Natural Order Optics 
 "Exploration and means of production." The original marxism communism states that the capitalist explore the labor of workers, what is called surplus, which is the value of labor minus the wage given to the worker. But the marxism fail to understand the intellectual labor accumulated by good decisions, good management, and the creation ifself of the technology necessary for means of production to exists. The investment, the technology, the management, all intellectual work are accumulated on private property of the means of production. The proletarian take-over of means of production are not a fair claim, specially in a society that at some extent, you can own a small shop, or a small manufacturer, if you manage to save resources. The Natural Order Communism dont define exploration in this manner, instead if defines conceptually, using the natural order dialetics (Labor % Liberty), as exploration being the abuse of laboring and denial of liberty.
 1. Political Exploration : the abusive extraction of labor and denial of liberty through taxes to support the political class. Political monopoly through political parties filtering.
 2. Economical Exploration : the denial of free market. The economical establishment allied with political establishment to impose burocractic barriers, which prevent persons from other classes to effectively or legally acquire means of production.
 3. Intellectual Exploration : the denial of free thinking, the denial of free-speech, the contamination of academic spaces and education system to deny the liberty of thought.
+
+"Marx inversion and Natural Order."    
+
+"Private Property on Natural Order Communism." 
+}
+{ // ...
+
+"Money, Labor and Liberty." The moneyless property of communism is meaningless on natural order communism. There will be money, as a practical valuation for the exchange between labor and liberty, ... 
+    
+Labor ~ Action
+Liberty     
+
+"Ownership of means of production and Wage-Worker." Instead of defining classes by means of ownership of means of production, the natural order communism defines this relation by means of economic leadership concept. A leader is a role for someone that has more intellectual/decisory responsability, and the subordinate is the role more directly related to tasks performed, its more laboral (human time and energy consumption). The (Leader % Subordinate) is the key for natural order communism adopt free-market as a core principle. The leadership is scarce by nature, so it is a competitive role, on a free-market the economical leadership is scarce, so it can be optimized by competition by the rules of free-market. In order to maintain this relation fair, there must be no effective barriers to someone transition from subordinate to a leadership position. An economical leader should have rights against unfair take-over and subordinate should have rights to be paid for their work. On this scheme there is no surplus exploration, because we dont deny the intellectual work done by the leader. The exploration takes places when the free-market fail to optimize the Leadership position, so the Subordination becomes mandatory on effectivelly unfair conditions for those who Subordinates themselves. The absense of free-market is the root cause for exploration, because the subordination on unfair conditions becomes mandatory for the worker class.
     
 }
 /// END
