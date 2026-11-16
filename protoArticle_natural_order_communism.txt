@@ -51,16 +51,26 @@ Labor % Liberty
 "Money, Labor and Liberty." The moneyless property of communism is meaningless on natural order communism. There will be money, as a practical valuation for the exchange between labor and liberty. Money or currency is an quantifiable object/entity which can map effectivelly the amount of labor and the amount of liberty. Liberty and Labor is analog to energy on physical systems. Money is the accumulated energy of market system while labor is the energy in use. With money there will be prices, and prices stores the information about the demand of a service or good on free-market. 
 
 "Establishment and Bourgeoisie." The Bourgeoisie, as the current owners of means of production, in natural order communism, are not the main challenge of the worker class. The actual treat is the Establishment, which is the defined as an effective monopoly of the system composed by current economical and political leaders. The establishment is always tempted to exploit the failures of the system in order to gain advantages or even suppress the free-markert. The marxist Bourgeoisie is just one of the possible establishment that could arise on a context of non-free market. 
+    
+"Etimology of communism." Yet, we must point out that the original concept of communism is related to the word 'common', a social ownership of the means of production. In natural order communism, the social ownership is not the main goal, so it seems a misuse of the term. For the natural order communism, the fight against oppression is the main goal. The natural order communist society will be a society that everyone can interchange between roles (classes) more easily, so the boundaries of the classes would be weaker. In this scenario, a person could work, accumulate resources, buy the ownership of mean of production of some activity, sell the ownership of means of production to someone else, all in a lifetime. The roles of economical leadership and subordination will be 'common', in the sense that it will not be special, on the dinamical perspective, it will be effectively classless.
 
 
 }
-{ // ...
+{ // 4. Root of Oppression
 
-
+(Main % Support)[Objective]
+(Labor % Liberty)[Human Purpose]
+( (Assets % Workers)[Production] % Managers )[Service]
     
-Labor ~ Action
-Liberty     
+Exploiter /// Wants liberty without labor, effectively abusing the labor of others.
+Oppressed /// Depends on the exploiter to survive, effectively denying his own liberty by necessity lending his work force for the exploiter in exchange for survival. 
+    
+"Land Private Property and Vehicle Private Property." Its oddly common for alleged free-market capitalist countries to impose taxes over owned land and vehicle properties. This cannot be tolerated on natural order communism, as those taxes turn those properties effectively owned by government and borrowed to citizens. In natural order communism, the government could monetize public road services, but in same fashion as private roads. Public roads should be payed directly over the service, not indirectly by means of obscure imposed taxes. Land private property is the baseline, the most fundamental property one could have, it should not be imposed any taxes, the owner could pay only for directly used private/public services. The land is not only the most fundamental private property, is the most fundamental 'mean of production'. The owner of land can offer services associated by the use of the property. As commented on previous sections, if a land owner borrow the use as a service and wants to enforce the contract, it can pay the government for the service to be the third-party to observe and impose the contract on both borrower and land owner. 
 
+Money ~ Interception 
+Dependence/Necessity ~ Oppression 
+    
+Parallel Currency 
 
     
 }
