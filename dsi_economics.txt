@@ -1,0 +1,31 @@
+/// BEGIN 
+
+[ Keynesianism ] { Economics }
+? What is keynesianism 
+:: 1. Aggregate Demand as Primary Driver of Economy
+:: 2. Government should actively stabilize the aggregate demand 
+?? What ideology comes before 
+??? What is "Say's law"
+???? Sticky Prices X Self-Correcting Property { Free-Market }
+???? Ineffective free-market could (generate sticky prices)/(inhibit self-correction property)
+?? What is aggregate demand 
+??? Aggregate Demand X Wealth Accumulation 
+???? Both are indicators of a healthy economy, can be said that high aggregate demand without wealth accumulation is a sign of something off 
+????? What is debt-fueled consumption and what is the critique 
+?? Claim of keynesianism about recession 
+?? What is counter-cyclical theory 
+??? Isnt cutting taxes and increasing government spending something mutually defended by other economical schools 
+?? What ideology comes after and what they say about keynesianism 
+
+[ Social-Developmentalism ] { Economics }
+? What is the economic theory of social-developmentalism 
+?? What are its main theses 
+::: Economic Growth Through the Expansion of Mass Consumption.
+;;;; Mass Consumption Does Not Increase Economic Complexity. It is a direct stimulus for greater consumption of what already exists.
+;;;; Focus on Mass Consumption Rather Than Wealth Accumulation. It does not stimulate the increase in the capacity to allocate resources toward investment (which is what can increase economic complexity).
+?? What are the main criticisms 
+??? Analogy of Social-Developmentalism to a Perpetual-Motion Machine 
+??? Analogy to Cancerous Economic Growth 
+? How is the model applied in the current Brazilian government 
+
+/// END 
