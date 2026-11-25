@@ -30,4 +30,10 @@
 :: Conflict := (Support X Main)
 .. (Conflict,Inversion,Degeneration) ~ (Destruction,Instability,Static)
 
+(Main % Support) >> Objective
+(Main % Support)[Objective]
+(Order % Chaos)[Existence]
+(Chaos % Order)[Change]
+(Existence % Change)[Stable Evolution]
+
 /// END 

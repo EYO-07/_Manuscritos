@@ -9,11 +9,14 @@
 ???? Sticky Prices X Self-Correcting Property { Free-Market }
 ???? Ineffective free-market could (generate sticky prices)/(inhibit self-correction property)
 ?? What is aggregate demand 
+??? How aggregate demand is composed
+:::: Consumption + Investment + Government Spending + Net Exports
 ??? Aggregate Demand X Wealth Accumulation 
 ???? Both are indicators of a healthy economy, can be said that high aggregate demand without wealth accumulation is a sign of something off 
 ????? What is debt-fueled consumption and what is the critique 
 ?? Claim of keynesianism about recession 
 ?? What is counter-cyclical theory 
+??? what is budget deficit 
 ??? Isnt cutting taxes and increasing government spending something mutually defended by other economical schools 
 ?? What ideology comes after and what they say about keynesianism 
 
@@ -27,5 +30,14 @@
 ??? Analogy of Social-Developmentalism to a Perpetual-Motion Machine 
 ??? Analogy to Cancerous Economic Growth 
 ? How is the model applied in the current Brazilian government 
+.
+Mass Consumption > Economical Growth > Higher Taxes Revenue > Wealthfare State Policies > Mass Consumption 
+[ Mass Consumption Induction ]
+1. Raising Minimum Wage > Mass Consumption 
+2. Progressive Taxes > Redistribution of Wealth > Mass Consumption 
+3. Subsidized Consumer Credit > Mass Consumption 
+[ Productivity Induction ]
+1. Infrastructure > Economical Growth 
+2. Productivity Credit > Economical Growth 
 
 /// END 
